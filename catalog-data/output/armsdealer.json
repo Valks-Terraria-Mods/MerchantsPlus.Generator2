@@ -1,0 +1,130 @@
+{
+  "Name": "ArmsDealer",
+  "Shops": [
+    {
+      "Name": "Guns",
+      "Items": [
+        {
+          "Name": "SpaceGun",
+          "Price": "2g"
+        },
+        {
+          "Name": "Handgun",
+          "Price": "8g 75s"
+        },
+        {
+          "Name": "Sandgun",
+          "Price": "1g"
+        },
+        {
+          "Name": "IllegalGunParts",
+          "Price": "20g"
+        },
+        {
+          "Name": "ClockworkAssaultRifle",
+          "Price": "15g"
+        },
+        {
+          "Name": "LaserRifle",
+          "Price": "15g"
+        },
+        {
+          "Name": "Shotgun",
+          "Price": "25g"
+        },
+        {
+          "Name": "Gungnir",
+          "Price": "23g"
+        },
+        {
+          "Name": "TacticalShotgun",
+          "Price": "40g"
+        },
+        {
+          "Name": "CoinGun",
+          "Price": "30g"
+        },
+        {
+          "Name": "FlareGun",
+          "Price": "5g"
+        },
+        {
+          "Name": "Blowgun",
+          "Price": "5g"
+        },
+        {
+          "Name": "ConfettiGun",
+          "Price": "1s"
+        },
+        {
+          "Name": "BeeGun",
+          "Price": "10g"
+        },
+        {
+          "Name": "WaspGun",
+          "Price": "50g"
+        },
+        {
+          "Name": "PiranhaGun",
+          "Price": "1p"
+        },
+        {
+          "Name": "SniperRifle",
+          "Price": "40g"
+        },
+        {
+          "Name": "RainbowGun",
+          "Price": "1p"
+        },
+        {
+          "Name": "RifleScope",
+          "Price": "15g"
+        },
+        {
+          "Name": "CandyCornRifle",
+          "Price": "50g"
+        },
+        {
+          "Name": "ChainGun",
+          "Price": "45g"
+        },
+        {
+          "Name": "WaterGun",
+          "Price": "1g 50s"
+        },
+        {
+          "Name": "SlimeGun",
+          "Price": "1g 50s"
+        },
+        {
+          "Name": "BubbleGun",
+          "Price": "25g"
+        },
+        {
+          "Name": "LaserMachinegun",
+          "Price": "50g"
+        },
+        {
+          "Name": "DartRifle",
+          "Price": "40g"
+        },
+        {
+          "Name": "NailGun",
+          "Price": "50g"
+        },
+        {
+          "Name": "PortalGun",
+          "Price": "50g"
+        },
+        {
+          "Name": "PortalGunStation",
+          "Price": "10g"
+        },
+        {
+          "Name": "QuadBarrelShotgun",
+          "Price": "35g"
+        }
+      ]
+    }
+  ]
+}

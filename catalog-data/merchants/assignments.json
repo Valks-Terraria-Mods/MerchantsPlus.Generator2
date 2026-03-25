@@ -1,0 +1,97 @@
+[
+  {
+    "MerchantName": "ArmsDealer",
+    "Categories": [],
+    "Shops": [
+      "Weapons / Guns"
+    ]
+  },
+  {
+    "MerchantName": "Cyborg",
+    "Categories": [],
+    "Shops": [
+      "Weapons / Phasesabers"
+    ]
+  },
+  {
+    "MerchantName": "Dryad",
+    "Categories": [],
+    "Shops": [
+      "Furniture / Planter Boxes",
+      "Plants / Seeds"
+    ]
+  },
+  {
+    "MerchantName": "DyeTrader",
+    "Categories": [],
+    "Shops": [
+      "Goods / Dyes"
+    ]
+  },
+  {
+    "MerchantName": "Merchant",
+    "Categories": [],
+    "Shops": [
+      "Goods / Gear",
+      "Materials / Bars",
+      "Materials / Ores",
+      "Weapons / Arrows"
+    ]
+  },
+  {
+    "MerchantName": "Painter",
+    "Categories": [],
+    "Shops": [
+      "Furniture / Paints",
+      "Furniture / Wallpapers"
+    ]
+  },
+  {
+    "MerchantName": "Steampunker",
+    "Categories": [],
+    "Shops": [
+      "Furniture / Alpha Statues",
+      "Furniture / Bathtubs",
+      "Furniture / Beds",
+      "Furniture / Bookcases",
+      "Furniture / Campfires",
+      "Furniture / Candelabras",
+      "Furniture / Candles",
+      "Furniture / Chairs",
+      "Furniture / Chandeliers",
+      "Furniture / Chest",
+      "Furniture / Clocks",
+      "Furniture / Doors",
+      "Furniture / Dressers",
+      "Furniture / Fences",
+      "Furniture / Lamps",
+      "Furniture / Lanterns",
+      "Furniture / Music Boxes",
+      "Furniture / Pianos",
+      "Furniture / Platforms",
+      "Furniture / Sofas",
+      "Furniture / Statues",
+      "Furniture / Tables",
+      "Furniture / Toilets",
+      "Furniture / Torches",
+      "Furniture / Trophies",
+      "Furniture / Walls",
+      "Furniture / Workbenches"
+    ]
+  },
+  {
+    "MerchantName": "TownCat",
+    "Categories": [],
+    "Shops": [
+      "Furniture / Banners"
+    ]
+  },
+  {
+    "MerchantName": "WitchDoctor",
+    "Categories": [],
+    "Shops": [
+      "Goods / Potions",
+      "Tools / Wings"
+    ]
+  }
+]

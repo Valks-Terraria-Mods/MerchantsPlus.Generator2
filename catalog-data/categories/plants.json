@@ -1,0 +1,29 @@
+{
+  "Name": "Plants",
+  "Keywords": [],
+  "BlacklistedKeywords": [],
+  "KeywordRules": [],
+  "FirstOrder": [],
+  "LastOrder": [],
+  "Shops": [
+    {
+      "Name": "Seeds",
+      "Priority": 0,
+      "Keywords": [
+        "seed"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "seed"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    }
+  ]
+}

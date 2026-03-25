@@ -1,0 +1,159 @@
+{
+  "Name": "Dryad",
+  "Shops": [
+    {
+      "Name": "Planter Boxes",
+      "Items": [
+        {
+          "Name": "DayBloomPlanterBox",
+          "Price": "1s"
+        },
+        {
+          "Name": "MoonglowPlanterBox",
+          "Price": "1s"
+        },
+        {
+          "Name": "CorruptPlanterBox",
+          "Price": "1s"
+        },
+        {
+          "Name": "CrimsonPlanterBox",
+          "Price": "1s"
+        },
+        {
+          "Name": "BlinkrootPlanterBox",
+          "Price": "1s"
+        },
+        {
+          "Name": "WaterleafPlanterBox",
+          "Price": "1s"
+        },
+        {
+          "Name": "ShiverthornPlanterBox",
+          "Price": "1s"
+        },
+        {
+          "Name": "FireBlossomPlanterBox",
+          "Price": "1s"
+        }
+      ]
+    },
+    {
+      "Name": "Seeds",
+      "Items": [
+        {
+          "Name": "CorruptSeeds",
+          "Price": "5s"
+        },
+        {
+          "Name": "GrassSeeds",
+          "Price": "20c"
+        },
+        {
+          "Name": "MushroomGrassSeeds",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "JungleGrassSeeds",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "Seed",
+          "Price": ""
+        },
+        {
+          "Name": "DaybloomSeeds",
+          "Price": "80c"
+        },
+        {
+          "Name": "MoonglowSeeds",
+          "Price": "80c"
+        },
+        {
+          "Name": "BlinkrootSeeds",
+          "Price": "80c"
+        },
+        {
+          "Name": "DeathweedSeeds",
+          "Price": "80c"
+        },
+        {
+          "Name": "WaterleafSeeds",
+          "Price": "80c"
+        },
+        {
+          "Name": "FireblossomSeeds",
+          "Price": "80c"
+        },
+        {
+          "Name": "HallowedSeeds",
+          "Price": "20s"
+        },
+        {
+          "Name": "Seedling",
+          "Price": "10g"
+        },
+        {
+          "Name": "MagicalPumpkinSeed",
+          "Price": "10g"
+        },
+        {
+          "Name": "PumpkinSeed",
+          "Price": "2s 50c"
+        },
+        {
+          "Name": "CrimsonSeeds",
+          "Price": "5s"
+        },
+        {
+          "Name": "ShiverthornSeeds",
+          "Price": "80c"
+        },
+        {
+          "Name": "Seedler",
+          "Price": "50g"
+        },
+        {
+          "Name": "GemTreeTopazSeed",
+          "Price": "37s 50c"
+        },
+        {
+          "Name": "GemTreeAmethystSeed",
+          "Price": "18s 75c"
+        },
+        {
+          "Name": "GemTreeSapphireSeed",
+          "Price": "56s 25c"
+        },
+        {
+          "Name": "GemTreeEmeraldSeed",
+          "Price": "75s"
+        },
+        {
+          "Name": "GemTreeRubySeed",
+          "Price": "1g 12s 50c"
+        },
+        {
+          "Name": "GemTreeDiamondSeed",
+          "Price": "1g 50s"
+        },
+        {
+          "Name": "GemTreeAmberSeed",
+          "Price": "1g 50s"
+        },
+        {
+          "Name": "VanityTreeSakuraSeed",
+          "Price": "1g"
+        },
+        {
+          "Name": "VanityTreeYellowWillowSeed",
+          "Price": "1g"
+        },
+        {
+          "Name": "AshGrassSeeds",
+          "Price": "1s 50c"
+        }
+      ]
+    }
+  ]
+}

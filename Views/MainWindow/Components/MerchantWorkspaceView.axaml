@@ -1,0 +1,92 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="using:MerchantsPlus.Generator"
+             x:Class="MerchantsPlus.Generator.MerchantWorkspaceView">
+  <Grid ColumnDefinitions="1.1*,1.4*">
+    <Border Grid.Column="0" Padding="12" CornerRadius="12" Background="{DynamicResource PanelBackgroundBrush}" BorderBrush="{DynamicResource PanelBorderBrush}" BorderThickness="1" Margin="0,0,7,0">
+      <Grid RowDefinitions="Auto,Auto,*">
+        <TextBlock Text="Merchants" FontSize="{Binding AppFontSize, Converter={StaticResource MultiplyDoubleConverter}, ConverterParameter=1.2857142857, FallbackValue=14, TargetNullValue=14}" FontWeight="SemiBold" Foreground="{DynamicResource TextPrimaryBrush}" />
+        <Grid Grid.Row="1" ColumnDefinitions="*,Auto" Margin="0,10,0,10">
+          <TextBox Watermark="Filter merchants, shops, items..."
+                   Text="{Binding MerchantFilterText}" />
+          <ComboBox Grid.Column="1"
+                    Margin="8,0,0,0"
+                    Width="160"
+                    ItemsSource="{Binding MerchantSortModes}"
+                    SelectedItem="{Binding MerchantSortMode}" />
+        </Grid>
+        <TreeView Grid.Row="2"
+                  FontSize="{Binding TreeViewFontSize, FallbackValue=14, TargetNullValue=14}"
+                  ItemsSource="{Binding MerchantWorkspaceNodes}"
+                  SelectedItem="{Binding SelectedMerchantWorkspaceNode}"
+                  ScrollViewer.VerticalScrollBarVisibility="Hidden">
+          <TreeView.ItemTemplate>
+            <TreeDataTemplate DataType="local:MerchantTreeNode" ItemsSource="{Binding Children}">
+              <Grid ColumnDefinitions="*,Auto" Margin="0,4,0,4">
+                <TextBlock Text="{Binding Title}" FontWeight="SemiBold" VerticalAlignment="Center" />
+                <StackPanel Grid.Column="1" Orientation="Horizontal" Margin="8,0,0,0">
+                  <local:CountBadgeView Margin="0,0,6,0"
+                                        IsVisible="{Binding HasItemCountBadge}"
+                                        BadgeText="{Binding ItemCountBadgeText}"
+                                        BadgeBackground="#024630"
+                                        BadgeForeground="#F8FAFC" />
+                  <local:CountBadgeView IsVisible="{Binding HasShopCountBadge}"
+                                        BadgeText="{Binding ShopCountBadgeText}"
+                                        BadgeBackground="#6c096b"
+                                        BadgeForeground="#F8FAFC" />
+                </StackPanel>
+              </Grid>
+            </TreeDataTemplate>
+          </TreeView.ItemTemplate>
+          <TreeView.Styles>
+            <Style Selector="TreeViewItem">
+              <Setter Property="IsExpanded" Value="False" />
+            </Style>
+          </TreeView.Styles>
+        </TreeView>
+      </Grid>
+    </Border>
+
+    <Border Grid.Column="1" Padding="14" CornerRadius="12" Background="{DynamicResource PanelBackgroundBrush}" BorderBrush="{DynamicResource PanelBorderBrush}" BorderThickness="1" Margin="7,0,0,0">
+      <Grid RowDefinitions="Auto,Auto,Auto,*,Auto,Auto">
+        <TextBlock Text="Merchant Editor" FontSize="{Binding AppFontSize, Converter={StaticResource MultiplyDoubleConverter}, ConverterParameter=1.2857142857, FallbackValue=14, TargetNullValue=14}" FontWeight="SemiBold" Foreground="{DynamicResource TextPrimaryBrush}" />
+        <TextBlock Grid.Row="1" Margin="0,10,0,0" Text="{Binding SelectedMerchantDisplayName}" FontSize="{Binding AppFontSize, Converter={StaticResource MultiplyDoubleConverter}, ConverterParameter=1.1428571429, FallbackValue=14, TargetNullValue=14}" FontWeight="SemiBold" />
+        <TextBlock Grid.Row="2" Margin="0,10,0,0" Text="Owned Shops" FontWeight="SemiBold" />
+        <Border Grid.Row="3" Margin="0,8,0,0" BorderBrush="{DynamicResource PanelBorderBrush}" BorderThickness="1" CornerRadius="8" Padding="8">
+          <ListBox ItemsSource="{Binding MerchantOwnedShopBadges}" IsEnabled="{Binding HasSelectedMerchant}">
+            <ListBox.ItemTemplate>
+              <DataTemplate>
+                <Grid ColumnDefinitions="Auto,*,Auto" Margin="0,0,0,8">
+                  <StackPanel Orientation="Horizontal" Spacing="8" VerticalAlignment="Center">
+                    <TextBlock Text="{Binding ShopName}" FontSize="{Binding DataContext.AppFontSize, RelativeSource={RelativeSource AncestorType=local:MerchantWorkspaceView}, Converter={StaticResource MultiplyDoubleConverter}, ConverterParameter=0.9285714286, FallbackValue=14, TargetNullValue=14}" VerticalAlignment="Center" />
+                    <local:CountBadgeView VerticalAlignment="Center"
+                                          BadgeText="{Binding ItemCountBadgeText}"
+                                          BadgeBackground="#024630"
+                                          BadgeForeground="#F8FAFC" />
+                  </StackPanel>
+                  <Button Grid.Column="2" Content="Remove" Click="OnRemoveMerchantShopClick" Margin="8,0,0,0" />
+                </Grid>
+              </DataTemplate>
+            </ListBox.ItemTemplate>
+          </ListBox>
+        </Border>
+        <TextBlock Grid.Row="4" Margin="0,12,0,6" Text="Add Shop" FontWeight="SemiBold" />
+        <Grid Grid.Row="5" ColumnDefinitions="*,Auto">
+          <ComboBox ItemsSource="{Binding MerchantAvailableShops}"
+                    SelectedItem="{Binding SelectedMerchantAddShop}"
+                    IsEnabled="{Binding HasSelectedMerchant}">
+            <ComboBox.ItemTemplate>
+              <DataTemplate>
+                <Grid ColumnDefinitions="Auto,*">
+                  <TextBlock Text="{Binding CategoryName}" Foreground="{DynamicResource TextMutedBrush}" Margin="0,0,14,0" />
+                  <TextBlock Grid.Column="1" Text="{Binding ShopName}" Foreground="{DynamicResource TextPrimaryBrush}" HorizontalAlignment="Right" />
+                </Grid>
+              </DataTemplate>
+            </ComboBox.ItemTemplate>
+          </ComboBox>
+          <Button Grid.Column="1" Content="Add Shop" Click="OnAddMerchantShopClick" IsEnabled="{Binding HasSelectedMerchant}" Margin="8,0,0,0" />
+        </Grid>
+      </Grid>
+    </Border>
+  </Grid>
+</UserControl>

@@ -1,0 +1,219 @@
+{
+  "Name": "Materials",
+  "Keywords": [],
+  "BlacklistedKeywords": [],
+  "KeywordRules": [],
+  "FirstOrder": [],
+  "LastOrder": [],
+  "Shops": [
+    {
+      "Name": "Ores",
+      "Priority": 0,
+      "Keywords": [
+        "ore"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "banner"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "bench"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "boreal"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "bulb"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "claymore"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "cryocore"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "emblem"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "fish"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "forest"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "frostcore"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "glass"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "gore"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "lights"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "nevermore"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "potion"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "protector"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "spore"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "ore"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "banner",
+        "bench",
+        "boreal",
+        "bulb",
+        "claymore",
+        "cryocore",
+        "emblem",
+        "fish",
+        "forest",
+        "frostcore",
+        "glass",
+        "gore",
+        "lights",
+        "nevermore",
+        "potion",
+        "protector",
+        "spore"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Bars",
+      "Priority": 0,
+      "Keywords": [
+        "bar"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "barrel"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "fish"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "food"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "stool"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "tropical"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bar"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "barrel",
+        "fish",
+        "food",
+        "stool",
+        "tropical"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Gems",
+      "Priority": 0,
+      "Keywords": [],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Exact",
+          "Term": "diamond"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Exact",
+          "Term": "emerald"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Exact",
+          "Term": "ruby"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Exact",
+          "Term": "sapphire"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Exact",
+          "Term": "topaz"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    }
+  ]
+}

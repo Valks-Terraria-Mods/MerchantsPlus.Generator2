@@ -1,0 +1,242 @@
+{
+  "Name": "Weapons",
+  "Keywords": [],
+  "BlacklistedKeywords": [],
+  "KeywordRules": [],
+  "FirstOrder": [],
+  "LastOrder": [],
+  "Shops": [
+    {
+      "Name": "Shortswords",
+      "Priority": 0,
+      "Keywords": [
+        "shortsword"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "shortsword"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Broadswords",
+      "Priority": 0,
+      "Keywords": [
+        "broadsword"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "broadsword"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Swords",
+      "Priority": 1,
+      "Keywords": [
+        "sword"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sword"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Phasesabers",
+      "Priority": 0,
+      "Keywords": [
+        "phaseblade",
+        "phasesaber"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "phaseblade"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "phasesaber"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Bows",
+      "Priority": 0,
+      "Keywords": [
+        "bow",
+        "repeater"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "bowl"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "rainbow"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "rod"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "statue"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bow"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "repeater"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "bowl",
+        "rainbow",
+        "rod",
+        "statue"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Arrows",
+      "Priority": 0,
+      "Keywords": [
+        "arrow"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "marrow"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "sign"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "arrow"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "marrow",
+        "sign"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Whips",
+      "Priority": 0,
+      "Keywords": [
+        "whip"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "whip"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Guns",
+      "Priority": 0,
+      "Keywords": [
+        "gun",
+        "rifle"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "gun"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "rifle"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Staffs",
+      "Priority": 0,
+      "Keywords": [
+        "staff"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Suffix",
+          "Term": "regrowth"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "staff"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Rules": [],
+  "WhitelistKeywords": [],
+  "WhitelistPrefixKeywords": [],
+  "WhitelistSuffixKeywords": [],
+  "PrefixKeywords": [],
+  "SuffixKeywords": [],
+  "ContainsKeywords": [],
+  "FirstOrder": [],
+  "LastOrder": [
+    "solar",
+    "vortex",
+    "nebula",
+    "stardust"
+  ]
+}

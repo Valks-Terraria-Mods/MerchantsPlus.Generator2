@@ -1,0 +1,6243 @@
+{
+  "Name": "Specialty",
+  "Keywords": [],
+  "BlacklistedKeywords": [],
+  "KeywordRules": [],
+  "FirstOrder": [],
+  "LastOrder": [],
+  "Shops": [
+    {
+      "Name": "Echo",
+      "Priority": 10,
+      "Keywords": [
+        "echo"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "echo"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Pet Items",
+      "Priority": 10,
+      "Keywords": [
+        "petitem"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "petitem"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Kites",
+      "Priority": 10,
+      "Keywords": [
+        "kite"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "kite"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Balloons",
+      "Priority": 10,
+      "Keywords": [
+        "balloon"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "balloon"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Butterflies",
+      "Priority": 10,
+      "Keywords": [
+        "butterfly"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "butterfly"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Potted Plants",
+      "Priority": 10,
+      "Keywords": [
+        "potted"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "potted"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Robes",
+      "Priority": 10,
+      "Keywords": [
+        "robe"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "robe"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Boots",
+      "Priority": 10,
+      "Keywords": [
+        "boots"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "boots"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Flowers",
+      "Priority": 10,
+      "Keywords": [
+        "flower"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "flower"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Bottles",
+      "Priority": 10,
+      "Keywords": [
+        "bottle"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bottle"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Gem Critters And Locks",
+      "Priority": 10,
+      "Keywords": [
+        "gem"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "gem"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Crystals",
+      "Priority": 10,
+      "Keywords": [
+        "crystal"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "crystal"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Yoyo Strings",
+      "Priority": 10,
+      "Keywords": [
+        "string"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "string"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Old One\u0027s Army",
+      "Priority": 10,
+      "Keywords": [
+        "dd2"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "petitem"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "dd2"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "petitem"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Rockets",
+      "Priority": 10,
+      "Keywords": [
+        "rocket"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "rocket"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Keys",
+      "Priority": 10,
+      "Keywords": [
+        "key"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "key"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Mechanisms And Traps",
+      "Priority": 10,
+      "Keywords": [
+        "actuator",
+        "detonator",
+        "lever",
+        "logic",
+        "pressure",
+        "sensor",
+        "switch",
+        "timer",
+        "trap",
+        "wire",
+        "wrench"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "trappedghost"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "actuator"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "detonator"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lever"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "logic"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pressure"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sensor"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "switch"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "timer"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "trap"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "wire"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "wrench"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "trappedghost"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Explosives And Launchers",
+      "Priority": 10,
+      "Keywords": [
+        "bomb",
+        "cannon",
+        "dynamite",
+        "explosive",
+        "grenade",
+        "launcher"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bomb"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "cannon"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "dynamite"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "explosive"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "grenade"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "launcher"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Ammo",
+      "Priority": 10,
+      "Keywords": [
+        "bullet",
+        "dart",
+        "flare"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "flarefin"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "lunarflarebook"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "solarflare"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "trap"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bullet"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "dart"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "flare"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "flarefin",
+        "lunarflarebook",
+        "solarflare",
+        "trap"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Glassware",
+      "Priority": 10,
+      "Keywords": [
+        "glass"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "glass"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Monoliths And Pylons",
+      "Priority": 10,
+      "Keywords": [
+        "monolith",
+        "pylon"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "monolith"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pylon"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Shells",
+      "Priority": 10,
+      "Keywords": [
+        "shell"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "shell"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Wood",
+      "Priority": 10,
+      "Keywords": [
+        "wood"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "wood"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Mushrooms And Shroomite",
+      "Priority": 10,
+      "Keywords": [
+        "shroom"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "shroom"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Books And Guides",
+      "Priority": 10,
+      "Keywords": [
+        "book",
+        "guide"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "book"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "guide"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Water And Fountains",
+      "Priority": 10,
+      "Keywords": [
+        "fountain",
+        "water"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "fountain"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "water"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Critters And Fauna",
+      "Priority": 10,
+      "Keywords": [
+        "bird",
+        "bug",
+        "dragonfly",
+        "duck",
+        "frog",
+        "grasshopper",
+        "ladybug",
+        "mouse",
+        "penguin",
+        "scorpion",
+        "snail",
+        "squirrel",
+        "worm"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bird"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bug"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "dragonfly"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "duck"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "frog"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "grasshopper"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "ladybug"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "mouse"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "penguin"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "scorpion"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "snail"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "squirrel"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "worm"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Cosmic",
+      "Priority": 10,
+      "Keywords": [
+        "celestial",
+        "lunar",
+        "moon",
+        "nebula",
+        "solar",
+        "stardust",
+        "vortex"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "celestial"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lunar"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "moon"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "nebula"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "solar"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "stardust"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "vortex"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Attire Sets",
+      "Priority": 10,
+      "Keywords": [
+        "cape",
+        "coat",
+        "headgear",
+        "helm",
+        "hood",
+        "jacket",
+        "platemail",
+        "scalemail",
+        "vest"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "gravestone"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "sigil"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "cape"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "coat"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "headgear"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "helm"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "hood"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "jacket"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "platemail"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "scalemail"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "vest"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "gravestone",
+        "sigil"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Accessories",
+      "Priority": 10,
+      "Keywords": [
+        "aglet",
+        "analyzer",
+        "ankle",
+        "bag",
+        "belt",
+        "charm",
+        "claws",
+        "cloak",
+        "compass",
+        "cuffs",
+        "earring",
+        "emblem",
+        "finder",
+        "glove",
+        "goblintech",
+        "goggles",
+        "lens",
+        "magnet",
+        "meter",
+        "necklace",
+        "pda",
+        "phone",
+        "quiver",
+        "radio",
+        "rek",
+        "ring",
+        "scope",
+        "sextant",
+        "shield",
+        "tacklebag",
+        "toolbelt",
+        "waders",
+        "watch",
+        "webbing"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "compassrose"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "conveyorbelt"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "fallenstar"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "fetidbaghnakhs"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "vampireknives"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "watchful"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "watching"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "aglet"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "analyzer"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "ankle"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bag"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "belt"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "charm"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "claws"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "cloak"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "compass"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "cuffs"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "earring"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "emblem"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "finder"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "glove"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "goblintech"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "goggles"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lens"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "magnet"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "meter"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "necklace"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pda"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "phone"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "quiver"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "radio"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "rek"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "ring"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "scope"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sextant"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "shield"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tacklebag"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "toolbelt"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "waders"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "watch"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "webbing"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "compassrose",
+        "conveyorbelt",
+        "fallenstar",
+        "fetidbaghnakhs",
+        "vampireknives",
+        "watchful",
+        "watching"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Hardmode Set Gear",
+      "Priority": 10,
+      "Keywords": [
+        "adamantite",
+        "ancient",
+        "beetle",
+        "chlorophyte",
+        "cobalt",
+        "corrupt",
+        "crimson",
+        "hallowed",
+        "molten",
+        "mythril",
+        "obsidian",
+        "orichalcum",
+        "palladium",
+        "shadow",
+        "spectre",
+        "titanium",
+        "turtle"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "adamantite"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "ancient"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "beetle"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "chlorophyte"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "cobalt"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "corrupt"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "crimson"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "hallowed"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "molten"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "mythril"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "obsidian"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "orichalcum"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "palladium"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "shadow"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "spectre"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "titanium"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "turtle"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Lights And Bulbs",
+      "Priority": 10,
+      "Keywords": [
+        "bulb",
+        "glowstick",
+        "lights"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "lightsbane"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "lightshard"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bulb"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "glowstick"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lights"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "lightsbane",
+        "lightshard"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Food And Drink",
+      "Priority": 10,
+      "Keywords": [
+        "apple",
+        "apricot",
+        "bacon",
+        "banana",
+        "bbq",
+        "burger",
+        "cake",
+        "carrot",
+        "cherry",
+        "chicken",
+        "coconut",
+        "coffee",
+        "cooked",
+        "cookie",
+        "daiquiri",
+        "eggnog",
+        "grape",
+        "juice",
+        "loaf",
+        "nugget",
+        "pineapple",
+        "platter",
+        "pudding",
+        "sashimi",
+        "shrimp",
+        "soda",
+        "soup",
+        "steak",
+        "stew"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "apple"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "apricot"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bacon"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "banana"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bbq"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "burger"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "cake"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "carrot"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "cherry"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "chicken"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "coconut"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "coffee"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "cooked"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "cookie"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "daiquiri"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "eggnog"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "grape"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "juice"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "loaf"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "nugget"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pineapple"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "platter"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pudding"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sashimi"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "shrimp"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "soda"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "soup"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "steak"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "stew"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Melee Oddities",
+      "Priority": 10,
+      "Keywords": [
+        "arkhalis",
+        "bananarang",
+        "batbat",
+        "blade",
+        "boomerang",
+        "chakram",
+        "cutlass",
+        "dao",
+        "drax",
+        "excalibur",
+        "flail",
+        "flamarang",
+        "glaive",
+        "halberd",
+        "javelin",
+        "knife",
+        "lance",
+        "naginata",
+        "partisan",
+        "saber",
+        "scythe",
+        "spear",
+        "sunfury",
+        "trident"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "rack"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "arkhalis"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bananarang"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "batbat"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "blade"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "boomerang"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "chakram"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "cutlass"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "dao"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "drax"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "excalibur"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "flail"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "flamarang"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "glaive"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "halberd"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "javelin"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "knife"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lance"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "naginata"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "partisan"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "saber"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "scythe"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "spear"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sunfury"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "trident"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "rack"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Yoyos And Counterweights",
+      "Priority": 10,
+      "Keywords": [
+        "amarok",
+        "cascade",
+        "chik",
+        "code1",
+        "code2",
+        "counterweight",
+        "formatc",
+        "gradient",
+        "helfire",
+        "kraken",
+        "rally",
+        "valor",
+        "yelets",
+        "yoyo"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "amarok"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "cascade"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "chik"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "code1"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "code2"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "counterweight"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "formatc"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "gradient"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "helfire"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "kraken"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "rally"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "valor"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "yelets"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "yoyo"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Rods And Wands",
+      "Priority": 10,
+      "Keywords": [
+        "rod",
+        "wand"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "rod"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "wand"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Solutions And Powders",
+      "Priority": 10,
+      "Keywords": [
+        "clentaminator",
+        "dropper",
+        "powder",
+        "solution"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "clentaminator"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "dropper"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "powder"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "solution"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Liquid Utilities",
+      "Priority": 10,
+      "Keywords": [
+        "absorbant",
+        "bottomless",
+        "bucket",
+        "conch",
+        "sponge"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "dropper"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "absorbant"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bottomless"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bucket"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "conch"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sponge"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "dropper"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Color Variants",
+      "Priority": 10,
+      "Keywords": [
+        "black",
+        "blue",
+        "brown",
+        "cyan",
+        "gray",
+        "green",
+        "lime",
+        "orange",
+        "pink",
+        "purple",
+        "red",
+        "teal",
+        "violet",
+        "white",
+        "yellow"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "black"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "blue"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "brown"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "cyan"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "gray"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "green"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lime"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "orange"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pink"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "purple"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "red"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "teal"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "violet"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "white"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "yellow"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Vanity Extras",
+      "Priority": 10,
+      "Keywords": [
+        "beard",
+        "crown",
+        "ears",
+        "gown",
+        "hairpin",
+        "mask",
+        "princess",
+        "queen",
+        "suit",
+        "tail",
+        "tiara",
+        "uniform",
+        "wig"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "cocktail"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "beard"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "crown"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "ears"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "gown"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "hairpin"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "mask"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "princess"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "queen"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "suit"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tail"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tiara"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "uniform"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "wig"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "cocktail"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Decor Pieces",
+      "Priority": 10,
+      "Keywords": [
+        "column",
+        "gardland",
+        "garland",
+        "globe",
+        "plating",
+        "pot",
+        "present",
+        "rack",
+        "sandstone",
+        "shelf",
+        "shingles",
+        "sign",
+        "slab",
+        "stucco",
+        "vase"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "parrotcracker"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "potatochips"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "column"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "gardland"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "garland"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "globe"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "plating"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pot"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "present"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "rack"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sandstone"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "shelf"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "shingles"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sign"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "slab"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "stucco"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "vase"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "parrotcracker",
+        "potatochips"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Summons And Boss Items",
+      "Priority": 10,
+      "Keywords": [
+        "abeemination",
+        "bloodyspine",
+        "boss",
+        "deerthing",
+        "doll",
+        "heart",
+        "mechanical",
+        "medal",
+        "moonmedallion",
+        "presence",
+        "pumpkinmoon",
+        "sigil",
+        "summon",
+        "suspicious",
+        "voodoo",
+        "wormfood"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "abeemination"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bloodyspine"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "boss"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "deerthing"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "doll"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "heart"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "mechanical"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "medal"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "moonmedallion"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "presence"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pumpkinmoon"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sigil"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "summon"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "suspicious"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "voodoo"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "wormfood"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Ropes And Fibers",
+      "Priority": 9,
+      "Keywords": [
+        "coil",
+        "rope",
+        "silk",
+        "thread",
+        "vine",
+        "web"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "divineeye"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "coil"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "rope"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "silk"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "thread"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "vine"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "web"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "divineeye"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Moss And Pearls",
+      "Priority": 9,
+      "Keywords": [
+        "husk",
+        "moss",
+        "pearl"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "husk"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "moss"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pearl"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Biological Drops",
+      "Priority": 10,
+      "Keywords": [
+        "antlion",
+        "bee",
+        "blood",
+        "bone",
+        "cactus",
+        "fang",
+        "feather",
+        "fire",
+        "flame",
+        "flesh",
+        "frost",
+        "gel",
+        "hive",
+        "honey",
+        "horn",
+        "ichor",
+        "jungle",
+        "shark",
+        "spider",
+        "stinger",
+        "tooth",
+        "venom"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "antlion"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bee"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "blood"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bone"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "cactus"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "fang"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "feather"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "fire"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "flame"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "flesh"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "frost"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "gel"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "hive"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "honey"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "horn"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "ichor"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "jungle"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "shark"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "spider"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "stinger"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tooth"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "venom"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Machine Systems",
+      "Priority": 10,
+      "Keywords": [
+        "anvil",
+        "battery",
+        "blaster",
+        "conveyor",
+        "drone",
+        "extractinator",
+        "furnace",
+        "grinder",
+        "loom",
+        "machine",
+        "matic",
+        "mechanical",
+        "portable",
+        "pump",
+        "station",
+        "wire",
+        "workshop",
+        "zapinator"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "daybloom"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "ghostmanifestation"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "prismaticpunch"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "pumpkin"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "anvil"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "battery"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "blaster"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "conveyor"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "drone"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "extractinator"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "furnace"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "grinder"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "loom"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "machine"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "matic"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "mechanical"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "portable"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pump"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "station"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "wire"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "workshop"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "zapinator"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "daybloom",
+        "ghostmanifestation",
+        "prismaticpunch",
+        "pumpkin"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Mounts And Companions",
+      "Priority": 10,
+      "Keywords": [
+        "bunny",
+        "cat",
+        "companion",
+        "dog",
+        "horse",
+        "license",
+        "mount",
+        "reindeer",
+        "saddle",
+        "seahorse",
+        "toy",
+        "unicorn",
+        "whistle",
+        "wolf"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "catacomb"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "extendogrip"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "hotdog"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bunny"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "cat"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "companion"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "dog"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "horse"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "license"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "mount"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "reindeer"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "saddle"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "seahorse"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "toy"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "unicorn"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "whistle"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "wolf"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "catacomb",
+        "extendogrip",
+        "hotdog"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Souls And Darkness",
+      "Priority": 10,
+      "Keywords": [
+        "cursed",
+        "dark",
+        "dead",
+        "death",
+        "demon",
+        "ghost",
+        "hallow",
+        "hallows",
+        "night",
+        "soul",
+        "soulof",
+        "spirit"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "cursed"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "dark"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "dead"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "death"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "demon"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "ghost"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "hallow"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "hallows"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "night"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "soul"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "soulof"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "spirit"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Utilities And Props",
+      "Priority": 10,
+      "Keywords": [
+        "barrel",
+        "bell",
+        "bowl",
+        "box",
+        "couch",
+        "cup",
+        "lock",
+        "map",
+        "marker",
+        "mirror",
+        "ruler",
+        "table",
+        "tackle",
+        "tally",
+        "target",
+        "teleporter",
+        "throne",
+        "tome",
+        "tool",
+        "totem",
+        "vault",
+        "workshop"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "barrel"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bell"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bowl"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "box"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "couch"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "cup"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lock"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "map"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "marker"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "mirror"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "ruler"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "table"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tackle"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tally"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "target"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "teleporter"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "throne"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tome"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tool"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "totem"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "vault"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "workshop"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Titled Curios",
+      "Priority": 10,
+      "Keywords": [
+        "the"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "leather"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "weather"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "the"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "leather",
+        "weather"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Culinary And Produce",
+      "Priority": 10,
+      "Keywords": [
+        "ale",
+        "candycorn",
+        "dragonfruit",
+        "elderberry",
+        "escargot",
+        "friedegg",
+        "fries",
+        "fruitsalad",
+        "goldendelight",
+        "hoplitepizza",
+        "hotdog",
+        "icecream",
+        "jojacola",
+        "keg",
+        "lemon",
+        "lemonade",
+        "mango",
+        "marshmallow",
+        "marshmallowonastick",
+        "milkshake",
+        "monsterlasagna",
+        "mug",
+        "nachos",
+        "padthai",
+        "peach",
+        "peachsangria",
+        "pho",
+        "pinacolada",
+        "pizza",
+        "plum",
+        "pomegranate",
+        "potatochips",
+        "prismaticpunch",
+        "pumpkinpie",
+        "rambutan",
+        "sake",
+        "seafooddinner",
+        "spaghetti",
+        "spicypepper",
+        "starfruit",
+        "sugarplum",
+        "tartarsauce",
+        "teakettle",
+        "tropicalsmoothie",
+        "waffleiron"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "ale"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "candycorn"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "dragonfruit"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "elderberry"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "escargot"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "friedegg"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "fries"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "fruitsalad"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "goldendelight"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "hoplitepizza"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "hotdog"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "icecream"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "jojacola"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "keg"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lemon"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lemonade"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "mango"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "marshmallow"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "marshmallowonastick"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "milkshake"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "monsterlasagna"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "mug"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "nachos"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "padthai"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "peach"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "peachsangria"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pho"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pinacolada"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pizza"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "plum"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pomegranate"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "potatochips"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "prismaticpunch"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pumpkinpie"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "rambutan"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sake"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "seafooddinner"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "spaghetti"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "spicypepper"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "starfruit"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sugarplum"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tartarsauce"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "teakettle"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tropicalsmoothie"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "waffleiron"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Angler Haul",
+      "Priority": 10,
+      "Keywords": [
+        "amanitafungifin",
+        "anchor",
+        "atlanticcod",
+        "bass",
+        "compassrose",
+        "doublecod",
+        "eaterofplankton",
+        "ebonkoi",
+        "flarefinkoi",
+        "flounder",
+        "goldencarp",
+        "hemopiranha",
+        "lifepreserver",
+        "mermaidadornment",
+        "mutantflinxfin",
+        "neontetra",
+        "oldshoe",
+        "oyster",
+        "prismite",
+        "rocklobster",
+        "sail",
+        "salmon",
+        "scalytruffle",
+        "seaweedplanter",
+        "shipswheel",
+        "shuckedoyster",
+        "tincan",
+        "tropicalbarracuda",
+        "trout",
+        "tuna",
+        "tundratrout"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "amanitafungifin"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "anchor"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "atlanticcod"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bass"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "compassrose"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "doublecod"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "eaterofplankton"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "ebonkoi"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "flarefinkoi"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "flounder"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "goldencarp"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "hemopiranha"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lifepreserver"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "mermaidadornment"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "mutantflinxfin"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "neontetra"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "oldshoe"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "oyster"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "prismite"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "rocklobster"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sail"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "salmon"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "scalytruffle"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "seaweedplanter"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "shipswheel"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "shuckedoyster"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tincan"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tropicalbarracuda"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "trout"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tuna"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tundratrout"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Gallery Titles",
+      "Priority": 10,
+      "Keywords": [
+        "andrewsphinx",
+        "auroraborealis",
+        "bandageboy",
+        "bennywarhol",
+        "bioluminescence",
+        "buddies",
+        "constellation",
+        "crustography",
+        "daylight",
+        "discover",
+        "divineeye",
+        "dryadisque",
+        "duality",
+        "findinggold",
+        "firstencounter",
+        "foresttroll",
+        "goblinsplayingpoker",
+        "goodmorning",
+        "happylittletree",
+        "highpitch",
+        "impface",
+        "lightlesschasms",
+        "livinggore",
+        "lizardking",
+        "morbidcuriosity",
+        "morninghunt",
+        "myson",
+        "notsolostinparadise",
+        "nurselisa",
+        "ocularresonance",
+        "oldminer",
+        "outcast",
+        "parsecpals",
+        "pillaginmepixels",
+        "prehistorypreserved",
+        "purity",
+        "rabbitorder",
+        "remnantsofdevotion",
+        "requiem",
+        "royalromance",
+        "rustedcompanystandard",
+        "secrets",
+        "skellingtonjskellingsworth",
+        "skyguardian",
+        "somethingeviliswatchingyou",
+        "stilllife",
+        "strangegrowth",
+        "sufficientlyadvanced",
+        "terrariangothic",
+        "triosuperheroes",
+        "uluru",
+        "undergroundreward",
+        "vikingvoyage"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "andrewsphinx"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "auroraborealis"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bandageboy"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bennywarhol"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bioluminescence"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "buddies"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "constellation"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "crustography"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "daylight"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "discover"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "divineeye"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "dryadisque"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "duality"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "findinggold"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "firstencounter"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "foresttroll"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "goblinsplayingpoker"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "goodmorning"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "happylittletree"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "highpitch"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "impface"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lightlesschasms"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "livinggore"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lizardking"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "morbidcuriosity"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "morninghunt"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "myson"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "notsolostinparadise"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "nurselisa"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "ocularresonance"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "oldminer"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "outcast"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "parsecpals"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pillaginmepixels"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "prehistorypreserved"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "purity"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "rabbitorder"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "remnantsofdevotion"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "requiem"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "royalromance"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "rustedcompanystandard"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "secrets"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "skellingtonjskellingsworth"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "skyguardian"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "somethingeviliswatchingyou"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "stilllife"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "strangegrowth"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sufficientlyadvanced"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "terrariangothic"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "triosuperheroes"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "uluru"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "undergroundreward"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "vikingvoyage"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Exotic Arsenal",
+      "Priority": 10,
+      "Keywords": [
+        "ambermosquito",
+        "aquascepter",
+        "batscepter",
+        "blowpipe",
+        "boomstick",
+        "brainscrambler",
+        "butcherschainsaw",
+        "carbonguitar",
+        "chainguillotines",
+        "daybreak",
+        "drumstick",
+        "elfmelter",
+        "endlessmusketpouch",
+        "fetidbaghnakhs",
+        "firstfractal",
+        "flairon",
+        "flamingmace",
+        "gatligator",
+        "gladius",
+        "goldenshower",
+        "golemfist",
+        "hambat",
+        "harpoon",
+        "heatray",
+        "houndiusshootius",
+        "infernofork",
+        "influxwaver",
+        "ivyguitar",
+        "katana",
+        "lastprism",
+        "leafblower",
+        "lightsbane",
+        "mace",
+        "magicalharp",
+        "magicdagger",
+        "magicmissile",
+        "marrow",
+        "meowmere",
+        "meteorshot",
+        "molotovcocktail",
+        "muramasa",
+        "musket",
+        "musketball",
+        "nail",
+        "nettleburst",
+        "nevermore",
+        "parrotcracker",
+        "phantasm",
+        "phasicwarpejector",
+        "picksaw",
+        "piercingstarlight",
+        "razorpine",
+        "revolver",
+        "royalscepter",
+        "shuriken",
+        "skyfracture",
+        "sparkleguitar",
+        "stake",
+        "starfury",
+        "stynger",
+        "styngerbolt",
+        "tentaclespike",
+        "terragrim",
+        "thunderbolt",
+        "toxicflask",
+        "toxikarp",
+        "trimarang",
+        "tsunami",
+        "uzi",
+        "vampireknives",
+        "venusmagnum",
+        "xenopopper",
+        "zenith"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "ambermosquito"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "aquascepter"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "batscepter"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "blowpipe"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "boomstick"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "brainscrambler"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "butcherschainsaw"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "carbonguitar"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "chainguillotines"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "daybreak"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "drumstick"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "elfmelter"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "endlessmusketpouch"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "fetidbaghnakhs"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "firstfractal"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "flairon"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "flamingmace"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "gatligator"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "gladius"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "goldenshower"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "golemfist"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "hambat"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "harpoon"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "heatray"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "houndiusshootius"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "infernofork"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "influxwaver"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "ivyguitar"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "katana"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lastprism"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "leafblower"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lightsbane"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "mace"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "magicalharp"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "magicdagger"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "magicmissile"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "marrow"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "meowmere"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "meteorshot"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "molotovcocktail"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "muramasa"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "musket"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "musketball"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "nail"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "nettleburst"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "nevermore"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "parrotcracker"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "phantasm"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "phasicwarpejector"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "picksaw"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "piercingstarlight"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "razorpine"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "revolver"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "royalscepter"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "shuriken"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "skyfracture"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sparkleguitar"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "stake"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "starfury"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "stynger"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "styngerbolt"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tentaclespike"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "terragrim"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "thunderbolt"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "toxicflask"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "toxikarp"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "trimarang"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tsunami"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "uzi"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "vampireknives"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "venusmagnum"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "xenopopper"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "zenith"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Accessory Relics",
+      "Priority": 10,
+      "Keywords": [
+        "actuationaccessory",
+        "adhesivebandage",
+        "aegisfruit",
+        "ambrosia",
+        "architectgizmopack",
+        "arcticdivinggear",
+        "armorbracing",
+        "armorpolish",
+        "bandofregeneration",
+        "bandofstarpower",
+        "bezoar",
+        "binoculars",
+        "blindfold",
+        "brainofconfusion",
+        "breathingreed",
+        "countercursemantra",
+        "crittershampoo",
+        "defendersforge",
+        "discountcard",
+        "empressflightbooster",
+        "extendogrip",
+        "eyebrella",
+        "fartinajar",
+        "flinxfur",
+        "flipper",
+        "flyingcarpet",
+        "flymeal",
+        "gps",
+        "handofcreation",
+        "hoverboard",
+        "iceskates",
+        "jetpack",
+        "lavaskull",
+        "lizardegg",
+        "luckycoin",
+        "magiluminescence",
+        "manaregenerationband",
+        "masterninjagear",
+        "metaldetector",
+        "moneytrough",
+        "naturesgift",
+        "nazar",
+        "obelisk",
+        "papyrusscarab",
+        "peddlerssatchel",
+        "philosophersstone",
+        "putridscent",
+        "radar",
+        "rainbowcursor",
+        "rareenchantment",
+        "reflectiveshades",
+        "shackle",
+        "shinystone",
+        "shoespikes",
+        "solidifier",
+        "sporesac",
+        "starveil",
+        "sunstone",
+        "tabi",
+        "tigerclimbinggear",
+        "tissuesample",
+        "vitamins"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "actuationaccessory"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "adhesivebandage"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "aegisfruit"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "ambrosia"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "architectgizmopack"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "arcticdivinggear"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "armorbracing"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "armorpolish"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bandofregeneration"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bandofstarpower"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bezoar"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "binoculars"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "blindfold"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "brainofconfusion"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "breathingreed"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "countercursemantra"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "crittershampoo"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "defendersforge"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "discountcard"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "empressflightbooster"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "extendogrip"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "eyebrella"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "fartinajar"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "flinxfur"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "flipper"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "flyingcarpet"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "flymeal"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "gps"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "handofcreation"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "hoverboard"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "iceskates"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "jetpack"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lavaskull"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lizardegg"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "luckycoin"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "magiluminescence"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "manaregenerationband"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "masterninjagear"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "metaldetector"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "moneytrough"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "naturesgift"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "nazar"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "obelisk"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "papyrusscarab"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "peddlerssatchel"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "philosophersstone"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "putridscent"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "radar"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "rainbowcursor"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "rareenchantment"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "reflectiveshades"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "shackle"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "shinystone"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "shoespikes"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "solidifier"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sporesac"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "starveil"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sunstone"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tabi"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tigerclimbinggear"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tissuesample"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "vitamins"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Yard And Grave Props",
+      "Priority": 10,
+      "Keywords": [
+        "beachball",
+        "bench",
+        "borealbeam",
+        "bouncyboulder",
+        "braziersuspended",
+        "catacomb",
+        "cauldron",
+        "chimney",
+        "christmastree",
+        "discoball",
+        "fancydishes",
+        "fertilizer",
+        "gardengnome",
+        "glowtulip",
+        "grate",
+        "gravediggershovel",
+        "gravestone",
+        "graveyard",
+        "hangingskeleton",
+        "hay",
+        "headstone",
+        "holly",
+        "itemframe",
+        "lawnflamingo",
+        "lawnmower",
+        "mannequin",
+        "mudbud",
+        "oilragsconse",
+        "pinwheel",
+        "pumpkin",
+        "richgravestone1",
+        "richgravestone2",
+        "richgravestone3",
+        "richgravestone4",
+        "richgravestone5",
+        "richmahoganybeam",
+        "rubblemakerlarge",
+        "rubblemakermedium",
+        "rubblemakersmall",
+        "safe",
+        "sawmill",
+        "skelehead",
+        "skull",
+        "skymill",
+        "spiffoplush",
+        "steampunkboiler",
+        "sunornament",
+        "tallgate",
+        "terrarium",
+        "tombstone",
+        "trashcan",
+        "volcanolarge",
+        "volcanosmall",
+        "weathervane",
+        "womannquin"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "beachball"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bench"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "borealbeam"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bouncyboulder"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "braziersuspended"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "catacomb"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "cauldron"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "chimney"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "christmastree"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "discoball"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "fancydishes"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "fertilizer"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "gardengnome"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "glowtulip"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "grate"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "gravediggershovel"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "gravestone"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "graveyard"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "hangingskeleton"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "hay"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "headstone"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "holly"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "itemframe"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lawnflamingo"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lawnmower"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "mannequin"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "mudbud"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "oilragsconse"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pinwheel"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pumpkin"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "richgravestone1"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "richgravestone2"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "richgravestone3"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "richgravestone4"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "richgravestone5"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "richmahoganybeam"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "rubblemakerlarge"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "rubblemakermedium"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "rubblemakersmall"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "safe"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sawmill"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "skelehead"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "skull"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "skymill"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "spiffoplush"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "steampunkboiler"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sunornament"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tallgate"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "terrarium"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tombstone"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "trashcan"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "volcanolarge"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "volcanosmall"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "weathervane"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "womannquin"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Costume Fragments",
+      "Priority": 10,
+      "Keywords": [
+        "apprenticescarf",
+        "apprenticetrousers",
+        "beanie",
+        "buccaneerbandana",
+        "butcherapron",
+        "capricornlegs",
+        "celeb2",
+        "dryadloincloth",
+        "fedora",
+        "fez",
+        "floretprotectorlegs",
+        "foodbarbarianarmor",
+        "gi",
+        "graduationcapmaroon",
+        "huntressbuckler",
+        "huntressjerkin",
+        "jackelier",
+        "jimscap",
+        "kimono",
+        "leinforsaccessory",
+        "leopardskin",
+        "maidhead",
+        "maidhead2",
+        "monkbrows",
+        "mrsclauseheels",
+        "superherocostume",
+        "superherotights",
+        "tamoshanter",
+        "tigerskin",
+        "timelesstravelerbottom",
+        "uglysweater",
+        "willowskirt",
+        "yoraiz0rhead",
+        "zebraskin"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "apprenticescarf"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "apprenticetrousers"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "beanie"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "buccaneerbandana"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "butcherapron"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "capricornlegs"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "celeb2"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "dryadloincloth"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "fedora"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "fez"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "floretprotectorlegs"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "foodbarbarianarmor"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "gi"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "graduationcapmaroon"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "huntressbuckler"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "huntressjerkin"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "jackelier"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "jimscap"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "kimono"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "leinforsaccessory"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "leopardskin"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "maidhead"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "maidhead2"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "monkbrows"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "mrsclauseheels"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "superherocostume"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "superherotights"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tamoshanter"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tigerskin"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "timelesstravelerbottom"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "uglysweater"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "willowskirt"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "yoraiz0rhead"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "zebraskin"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Reagents And Essences",
+      "Priority": 10,
+      "Keywords": [
+        "amber",
+        "amethyst",
+        "bedazzlednectar",
+        "blinkroot",
+        "daybloom",
+        "ectoplasm",
+        "fallenstar",
+        "flaskofgold",
+        "flaskofnanites",
+        "flaskofparty",
+        "flaskofpoison",
+        "geode",
+        "golddust",
+        "largeamber",
+        "largeamethyst",
+        "largediamond",
+        "largeemerald",
+        "largeruby",
+        "largesapphire",
+        "largetopaz",
+        "lifefruit",
+        "lightshard",
+        "nectar",
+        "pixiedust",
+        "rottenchunk",
+        "seaweed",
+        "smolstar",
+        "star",
+        "staranise",
+        "startopper1",
+        "startopper2",
+        "startopper3",
+        "starwrath",
+        "strangebrew",
+        "strangeplant1",
+        "strangeplant2",
+        "strangeplant3",
+        "strangeplant4",
+        "vertebrae"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "amber"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "amethyst"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bedazzlednectar"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "blinkroot"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "daybloom"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "ectoplasm"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "fallenstar"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "flaskofgold"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "flaskofnanites"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "flaskofparty"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "flaskofpoison"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "geode"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "golddust"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "largeamber"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "largeamethyst"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "largediamond"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "largeemerald"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "largeruby"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "largesapphire"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "largetopaz"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lifefruit"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lightshard"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "nectar"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pixiedust"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "rottenchunk"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "seaweed"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "smolstar"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "star"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "staranise"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "startopper1"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "startopper2"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "startopper3"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "starwrath"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "strangebrew"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "strangeplant1"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "strangeplant2"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "strangeplant3"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "strangeplant4"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "vertebrae"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Critters And Bait",
+      "Priority": 10,
+      "Keywords": [
+        "apprenticebait",
+        "cardinal",
+        "eyezorhead",
+        "goblorcear",
+        "grebe",
+        "grubby",
+        "journeymanbait",
+        "lavafly",
+        "maggot",
+        "masterbait",
+        "owl",
+        "rat",
+        "rockgolemhead",
+        "scarletmacaw",
+        "seagull",
+        "shimmerfly",
+        "sluggy",
+        "toucan",
+        "vulkelfear",
+        "zombiearm"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "apprenticebait"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "cardinal"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "eyezorhead"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "goblorcear"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "grebe"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "grubby"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "journeymanbait"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lavafly"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "maggot"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "masterbait"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "owl"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "rat"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "rockgolemhead"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "scarletmacaw"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "seagull"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "shimmerfly"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sluggy"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "toucan"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "vulkelfear"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "zombiearm"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Utility Oddities",
+      "Priority": 10,
+      "Keywords": [
+        "bubble",
+        "dontstarveshaderitem",
+        "floatingtube",
+        "football",
+        "goblinbattlestandard",
+        "handearth",
+        "handwarmer",
+        "land",
+        "landmine",
+        "milkcarton",
+        "mininukei",
+        "mininukeii",
+        "northpole",
+        "paperairplanea",
+        "paperairplaneb",
+        "piggybank",
+        "pogostick",
+        "reborn",
+        "releasedoves",
+        "resplendentdessert",
+        "skeletronhand",
+        "slaphand",
+        "sleepingicon",
+        "sunshineofisrapony",
+        "taxcollectorsstickofdoom",
+        "thisisgettingoutofhand",
+        "tragicumbrella",
+        "umbrella",
+        "waldo",
+        "whoopiecushion",
+        "witchbroom"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bubble"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "dontstarveshaderitem"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "floatingtube"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "football"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "goblinbattlestandard"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "handearth"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "handwarmer"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "land"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "landmine"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "milkcarton"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "mininukei"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "mininukeii"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "northpole"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "paperairplanea"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "paperairplaneb"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "piggybank"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pogostick"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "reborn"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "releasedoves"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "resplendentdessert"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "skeletronhand"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "slaphand"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sleepingicon"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sunshineofisrapony"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "taxcollectorsstickofdoom"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "thisisgettingoutofhand"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "tragicumbrella"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "umbrella"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "waldo"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "whoopiecushion"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "witchbroom"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Terrain Materials",
+      "Priority": 10,
+      "Keywords": [
+        "acorn",
+        "bambooleaf",
+        "chain",
+        "cloud",
+        "coral",
+        "desertfossil",
+        "eucaluptussap",
+        "granite",
+        "hammush",
+        "hardenedsand",
+        "hellstone",
+        "leather",
+        "magmastone",
+        "marble",
+        "meteorite",
+        "oasis",
+        "raincloud",
+        "richmahogany",
+        "thinice",
+        "treetrunks"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "acorn"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bambooleaf"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "chain"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "cloud"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "coral"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "desertfossil"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "eucaluptussap"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "granite"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "hammush"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "hardenedsand"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "hellstone"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "leather"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "magmastone"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "marble"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "meteorite"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "oasis"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "raincloud"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "richmahogany"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "thinice"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "treetrunks"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Combat Implements",
+      "Priority": 10,
+      "Keywords": [
+        "ballohurt",
+        "boulder",
+        "divinggear",
+        "eyepatch",
+        "goldaxe",
+        "goldhammer",
+        "greatwave",
+        "harp",
+        "hellforge",
+        "icesickle",
+        "impact",
+        "jackingskeletron",
+        "lightdisc",
+        "necromanticscroll",
+        "rottenegg",
+        "sdmg",
+        "sickle",
+        "spike",
+        "spikyball",
+        "staffofregrowth"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "ballohurt"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "boulder"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "divinggear"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "eyepatch"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "goldaxe"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "goldhammer"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "greatwave"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "harp"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "hellforge"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "icesickle"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "impact"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "jackingskeletron"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lightdisc"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "necromanticscroll"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "rottenegg"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sdmg"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sickle"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "spike"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "spikyball"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "staffofregrowth"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Relics And Novelties",
+      "Priority": 10,
+      "Keywords": [
+        "bejeweledvalkyriebody",
+        "bejeweledvalkyriehead",
+        "candycane",
+        "coal",
+        "cog",
+        "confetti",
+        "djinnscurse",
+        "drumset",
+        "flaskofnanites",
+        "goldpickaxe",
+        "lihzahrdaltar",
+        "lihzahrdpowercell",
+        "medusahead",
+        "nanites",
+        "pigronata",
+        "snowball",
+        "stylistkillakillscissorsiwish",
+        "sundial",
+        "terrarian",
+        "unluckyyarn",
+        "weatherpain"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bejeweledvalkyriebody"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bejeweledvalkyriehead"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "candycane"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "coal"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "cog"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "confetti"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "djinnscurse"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "drumset"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "flaskofnanites"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "goldpickaxe"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lihzahrdaltar"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "lihzahrdpowercell"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "medusahead"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "nanites"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pigronata"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "snowball"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "stylistkillakillscissorsiwish"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "sundial"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "terrarian"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "unluckyyarn"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "weatherpain"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    }
+  ]
+}

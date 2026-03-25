@@ -1,0 +1,5541 @@
+{
+  "Name": "Steampunker",
+  "Shops": [
+    {
+      "Name": "Chairs 1",
+      "Items": [
+        {
+          "Name": "WoodenChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "CactusChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "BorealWoodChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "PalmWoodChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "RichMahoganyChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "EbonwoodChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ShadewoodChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "GraniteChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "PearlwoodChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "LivingWoodChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "BoneChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "FleshChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "MushroomChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SkywareChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "LihzahrdChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "BlueDungeonChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "GreenDungeonChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "PinkDungeonChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ObsidianChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "GothicChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "GlassChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "GoldenChair",
+          "Price": "10g"
+        },
+        {
+          "Name": "HoneyChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SteampunkChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "PumpkinChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SpookyChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "PineChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "DynastyChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "FrozenChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SlimeChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "MartianHoverChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "MeteoriteChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "MarbleChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "CrystalChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SpiderChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "LesionChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SandstoneChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "BambooChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "CoralChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "BalloonChair",
+          "Price": "1s 50c"
+        }
+      ]
+    },
+    {
+      "Name": "Chairs 2",
+      "Items": [
+        {
+          "Name": "AshWoodChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SolarChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "VortexChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "NebulaChair",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "StardustChair",
+          "Price": "1s 50c"
+        }
+      ]
+    },
+    {
+      "Name": "Tables 1",
+      "Items": [
+        {
+          "Name": "WoodenTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "CactusTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "BorealWoodTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "PalmWoodTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "RichMahoganyTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "EbonwoodTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "ShadewoodTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "GraniteTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "PearlwoodTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "BoneTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "FleshTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "LivingWoodTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "SkywareTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "LihzahrdTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "BlueDungeonTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "GreenDungeonTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "PinkDungeonTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "ObsidianTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "GothicTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "GlassTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "BanquetTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "GoldenTable",
+          "Price": "10g"
+        },
+        {
+          "Name": "HoneyTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "SteampunkTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "PumpkinTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "SpookyTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "PineTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "FrozenTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "DynastyTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "MushroomTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "SlimeTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "MartianTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "MartianTableLamp",
+          "Price": "15s"
+        },
+        {
+          "Name": "BewitchingTable",
+          "Price": "10g"
+        },
+        {
+          "Name": "AlchemyTable",
+          "Price": "10g"
+        },
+        {
+          "Name": "MeteoriteTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "MarbleTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "CrystalTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "SpiderTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "LesionTable",
+          "Price": "3s"
+        }
+      ]
+    },
+    {
+      "Name": "Tables 2",
+      "Items": [
+        {
+          "Name": "PicnicTable",
+          "Price": "4s"
+        },
+        {
+          "Name": "PicnicTableWithCloth",
+          "Price": "5s"
+        },
+        {
+          "Name": "SandstoneTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "BambooTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "CoralTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "BalloonTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "AshWoodTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "SolarTablet",
+          "Price": ""
+        },
+        {
+          "Name": "SolarTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "VortexTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "NebulaTable",
+          "Price": "3s"
+        },
+        {
+          "Name": "StardustTable",
+          "Price": "3s"
+        }
+      ]
+    },
+    {
+      "Name": "Doors 1",
+      "Items": [
+        {
+          "Name": "WoodenDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "EbonwoodDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "RichMahoganyDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "PearlwoodDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "CactusDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "FleshDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "MushroomDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "LivingWoodDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "BoneDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "SkywareDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "ShadewoodDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "LihzahrdDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "DungeonDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "LeadDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "IronDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "BlueDungeonDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "GreenDungeonDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "PinkDungeonDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "ObsidianDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "GlassDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "GoldenDoor",
+          "Price": "10g"
+        },
+        {
+          "Name": "HoneyDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "SteampunkDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "PumpkinDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "SpookyDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "PineDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "FrozenDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "DynastyDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "PalmWoodDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "BorealWoodDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "SlimeDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "MartianDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "MeteoriteDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "MarbleDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "GraniteDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "Trapdoor",
+          "Price": ""
+        },
+        {
+          "Name": "CrystalDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "SpiderDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "LesionDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "SandstoneDoor",
+          "Price": "2s"
+        }
+      ]
+    },
+    {
+      "Name": "Doors 2",
+      "Items": [
+        {
+          "Name": "StoneDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "BambooDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "CoralDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "BalloonDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "AshWoodDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "SolarDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "VortexDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "NebulaDoor",
+          "Price": "2s"
+        },
+        {
+          "Name": "StardustDoor",
+          "Price": "2s"
+        }
+      ]
+    },
+    {
+      "Name": "Statues 1",
+      "Items": [
+        {
+          "Name": "AngelStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "ArmorStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "StarStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "SwordStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "SlimeStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "GoblinStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "ShieldStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "BatStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "FishStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "BunnyStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "SkeletonStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "ReaperStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "WomanStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "ImpStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "GargoyleStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "GloomStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "HornetStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "BombStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "CrabStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "SpearStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "CrossStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "JellyfishStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "BowStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "BoomerangStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "BootStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "BirdStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "AxeStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "CorruptStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "TreeStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "AnvilStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "MushroomStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "EyeballStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "PillarStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "HeartStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "PotStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "SunflowerStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "KingStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "QueenStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "PiranhaStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "LihzahrdStatue",
+          "Price": "3s"
+        }
+      ]
+    },
+    {
+      "Name": "Statues 2",
+      "Items": [
+        {
+          "Name": "LihzahrdWatcherStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "LihzahrdGuardianStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "SharkStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "SquirrelStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "ButterflyStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "WormStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "FireflyStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "ScorpionStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "SnailStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "GrasshopperStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "MouseStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "DuckStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "PenguinStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "FrogStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "BuggyStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "WallCreeperStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "UnicornStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "DripplerStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "WraithStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "BoneSkeletonStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "UndeadVikingStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "MedusaStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "HarpyStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "PigronStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "HopliteStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "GraniteGolemStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "ZombieArmStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "BloodZombieStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "DragonflyStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "BoulderStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "SeagullStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "OwlStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "TurtleStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "MacawStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "ToucanStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "CockatielStatue",
+          "Price": "3s"
+        }
+      ]
+    },
+    {
+      "Name": "Alpha Statues",
+      "Items": [
+        {
+          "Name": "AlphabetStatue0",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatue1",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatue2",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatue3",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatue4",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatue5",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatue6",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatue7",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatue8",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatue9",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueA",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueB",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueC",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueD",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueE",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueF",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueG",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueH",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueI",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueJ",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueK",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueL",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueM",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueN",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueO",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueP",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueQ",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueR",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueS",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueT",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueU",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueV",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueW",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueX",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueY",
+          "Price": "3s"
+        },
+        {
+          "Name": "AlphabetStatueZ",
+          "Price": "3s"
+        }
+      ]
+    },
+    {
+      "Name": "Chest 1",
+      "Items": [
+        {
+          "Name": "Chest",
+          "Price": "5s"
+        },
+        {
+          "Name": "GoldChest",
+          "Price": "50s"
+        },
+        {
+          "Name": "ShadowChest",
+          "Price": "50s"
+        },
+        {
+          "Name": "ChestStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "EbonwoodChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "RichMahoganyChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "PearlwoodChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "IvyChest",
+          "Price": "50s"
+        },
+        {
+          "Name": "IceChest",
+          "Price": "50s"
+        },
+        {
+          "Name": "LivingWoodChest",
+          "Price": "50s"
+        },
+        {
+          "Name": "SkywareChest",
+          "Price": "50s"
+        },
+        {
+          "Name": "ShadewoodChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "WebCoveredChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "LihzahrdChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "WaterChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "JungleChest",
+          "Price": "25s"
+        },
+        {
+          "Name": "CorruptionChest",
+          "Price": "25s"
+        },
+        {
+          "Name": "CrimsonChest",
+          "Price": "25s"
+        },
+        {
+          "Name": "HallowedChest",
+          "Price": "25s"
+        },
+        {
+          "Name": "FrozenChest",
+          "Price": "25s"
+        },
+        {
+          "Name": "DynastyChest",
+          "Price": "3s 20c"
+        },
+        {
+          "Name": "HoneyChest",
+          "Price": "25s"
+        },
+        {
+          "Name": "SteampunkChest",
+          "Price": "25s"
+        },
+        {
+          "Name": "PalmWoodChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "MushroomChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "BorealWoodChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "SlimeChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "GreenDungeonChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "PinkDungeonChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "BlueDungeonChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "BoneChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "CactusChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "FleshChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "ObsidianChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "PumpkinChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "SpookyChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "GlassChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "MartianChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "GraniteChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "MeteoriteChest",
+          "Price": "5s"
+        }
+      ]
+    },
+    {
+      "Name": "Chest 2",
+      "Items": [
+        {
+          "Name": "MarbleChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "CrystalChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "GoldenChest",
+          "Price": "10g"
+        },
+        {
+          "Name": "SpiderChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "LesionChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "DeadMansChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "GolfChest",
+          "Price": "3g"
+        },
+        {
+          "Name": "DesertChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "BambooChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "DungeonDesertChest",
+          "Price": "25s"
+        },
+        {
+          "Name": "CoralChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "BalloonChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "AshWoodChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "SolarChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "VortexChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "NebulaChest",
+          "Price": "5s"
+        },
+        {
+          "Name": "StardustChest",
+          "Price": "5s"
+        }
+      ]
+    },
+    {
+      "Name": "Chandeliers 1",
+      "Items": [
+        {
+          "Name": "CopperChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "SilverChandelier",
+          "Price": "1g 20s"
+        },
+        {
+          "Name": "GoldChandelier",
+          "Price": "2g 40s"
+        },
+        {
+          "Name": "TinChandelier",
+          "Price": "45s"
+        },
+        {
+          "Name": "TungstenChandelier",
+          "Price": "1g 80s"
+        },
+        {
+          "Name": "PlatinumChandelier",
+          "Price": "3g 60s"
+        },
+        {
+          "Name": "CactusChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "EbonwoodChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "FleshChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "HoneyChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "FrozenChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "RichMahoganyChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "PearlwoodChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "LihzahrdChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "SkywareChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "SpookyChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "GlassChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "LivingWoodChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "ShadewoodChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "GoldenChandelier",
+          "Price": "10g"
+        },
+        {
+          "Name": "BoneChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "DynastyChandelier",
+          "Price": "1s 60c"
+        },
+        {
+          "Name": "PalmWoodChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "MushroomChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "BorealWoodChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "SlimeChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "BlueDungeonChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "GreenDungeonChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "PinkDungeonChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "SteampunkChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "PumpkinChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "ObsidianChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "MartianChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "MeteoriteChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "MarbleChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "GraniteChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "CrystalChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "SpiderChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "LesionChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "SandstoneChandelier",
+          "Price": "30s"
+        }
+      ]
+    },
+    {
+      "Name": "Chandeliers 2",
+      "Items": [
+        {
+          "Name": "BambooChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "CoralChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "BalloonChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "AshWoodChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "SolarChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "VortexChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "NebulaChandelier",
+          "Price": "30s"
+        },
+        {
+          "Name": "StardustChandelier",
+          "Price": "30s"
+        }
+      ]
+    },
+    {
+      "Name": "Walls 1",
+      "Items": [
+        {
+          "Name": "StoneWall",
+          "Price": ""
+        },
+        {
+          "Name": "DirtWall",
+          "Price": ""
+        },
+        {
+          "Name": "WoodWall",
+          "Price": ""
+        },
+        {
+          "Name": "GlassWall",
+          "Price": ""
+        },
+        {
+          "Name": "PlankedWall",
+          "Price": ""
+        },
+        {
+          "Name": "CandyCaneWall",
+          "Price": ""
+        },
+        {
+          "Name": "GreenCandyCaneWall",
+          "Price": ""
+        },
+        {
+          "Name": "AdamantiteBeamWall",
+          "Price": ""
+        },
+        {
+          "Name": "RedStuccoWall",
+          "Price": ""
+        },
+        {
+          "Name": "YellowStuccoWall",
+          "Price": ""
+        },
+        {
+          "Name": "GreenStuccoWall",
+          "Price": ""
+        },
+        {
+          "Name": "GrayStuccoWall",
+          "Price": ""
+        },
+        {
+          "Name": "EbonwoodWall",
+          "Price": ""
+        },
+        {
+          "Name": "RichMahoganyWall",
+          "Price": ""
+        },
+        {
+          "Name": "PearlwoodWall",
+          "Price": ""
+        },
+        {
+          "Name": "GrassWall",
+          "Price": "10c"
+        },
+        {
+          "Name": "JungleWall",
+          "Price": "10c"
+        },
+        {
+          "Name": "FlowerWall",
+          "Price": "10c"
+        },
+        {
+          "Name": "CactusWall",
+          "Price": ""
+        },
+        {
+          "Name": "CloudWall",
+          "Price": ""
+        },
+        {
+          "Name": "MushroomWall",
+          "Price": ""
+        },
+        {
+          "Name": "DiscWall",
+          "Price": ""
+        },
+        {
+          "Name": "ShadewoodWall",
+          "Price": ""
+        },
+        {
+          "Name": "HiveWall",
+          "Price": ""
+        },
+        {
+          "Name": "WallSkeleton",
+          "Price": ""
+        },
+        {
+          "Name": "BlueSlabWall",
+          "Price": ""
+        },
+        {
+          "Name": "BlueTiledWall",
+          "Price": ""
+        },
+        {
+          "Name": "PinkSlabWall",
+          "Price": ""
+        },
+        {
+          "Name": "PinkTiledWall",
+          "Price": ""
+        },
+        {
+          "Name": "GreenSlabWall",
+          "Price": ""
+        },
+        {
+          "Name": "GreenTiledWall",
+          "Price": ""
+        },
+        {
+          "Name": "PalladiumColumnWall",
+          "Price": ""
+        },
+        {
+          "Name": "LivingWoodWall",
+          "Price": ""
+        },
+        {
+          "Name": "PumpkinWall",
+          "Price": ""
+        },
+        {
+          "Name": "HayWall",
+          "Price": ""
+        },
+        {
+          "Name": "SpookyWoodWall",
+          "Price": ""
+        },
+        {
+          "Name": "ZebraSwallowtailButterfly",
+          "Price": "75s"
+        },
+        {
+          "Name": "WaterfallWall",
+          "Price": ""
+        },
+        {
+          "Name": "LavafallWall",
+          "Price": ""
+        },
+        {
+          "Name": "ZebraSwallowtailButterflyJar",
+          "Price": ""
+        }
+      ]
+    },
+    {
+      "Name": "Walls 2",
+      "Items": [
+        {
+          "Name": "WhiteDynastyWall",
+          "Price": ""
+        },
+        {
+          "Name": "BlueDynastyWall",
+          "Price": ""
+        },
+        {
+          "Name": "ArcaneRuneWall",
+          "Price": "2s 50c"
+        },
+        {
+          "Name": "CopperPlatingWall",
+          "Price": ""
+        },
+        {
+          "Name": "StoneSlabWall",
+          "Price": ""
+        },
+        {
+          "Name": "WallAnchor",
+          "Price": "2g 50s"
+        },
+        {
+          "Name": "BorealWoodWall",
+          "Price": ""
+        },
+        {
+          "Name": "PalmWoodWall",
+          "Price": ""
+        },
+        {
+          "Name": "AmberGemsparkWall",
+          "Price": ""
+        },
+        {
+          "Name": "AmberGemsparkWallOff",
+          "Price": ""
+        },
+        {
+          "Name": "AmethystGemsparkWall",
+          "Price": ""
+        },
+        {
+          "Name": "AmethystGemsparkWallOff",
+          "Price": ""
+        },
+        {
+          "Name": "DiamondGemsparkWall",
+          "Price": ""
+        },
+        {
+          "Name": "DiamondGemsparkWallOff",
+          "Price": ""
+        },
+        {
+          "Name": "EmeraldGemsparkWall",
+          "Price": ""
+        },
+        {
+          "Name": "EmeraldGemsparkWallOff",
+          "Price": ""
+        },
+        {
+          "Name": "RubyGemsparkWall",
+          "Price": ""
+        },
+        {
+          "Name": "RubyGemsparkWallOff",
+          "Price": ""
+        },
+        {
+          "Name": "SapphireGemsparkWall",
+          "Price": ""
+        },
+        {
+          "Name": "SapphireGemsparkWallOff",
+          "Price": ""
+        },
+        {
+          "Name": "TopazGemsparkWall",
+          "Price": ""
+        },
+        {
+          "Name": "TopazGemsparkWallOff",
+          "Price": ""
+        },
+        {
+          "Name": "TinPlatingWall",
+          "Price": ""
+        },
+        {
+          "Name": "ConfettiWall",
+          "Price": ""
+        },
+        {
+          "Name": "ConfettiWallBlack",
+          "Price": ""
+        },
+        {
+          "Name": "HoneyfallWall",
+          "Price": ""
+        },
+        {
+          "Name": "ShroomitePlatingWall",
+          "Price": ""
+        },
+        {
+          "Name": "MartianConduitWall",
+          "Price": ""
+        },
+        {
+          "Name": "MarbleWall",
+          "Price": ""
+        },
+        {
+          "Name": "GraniteWall",
+          "Price": ""
+        },
+        {
+          "Name": "SandstoneWall",
+          "Price": ""
+        },
+        {
+          "Name": "HardenedSandWall",
+          "Price": ""
+        },
+        {
+          "Name": "CorruptHardenedSandWall",
+          "Price": ""
+        },
+        {
+          "Name": "CrimsonHardenedSandWall",
+          "Price": ""
+        },
+        {
+          "Name": "HallowHardenedSandWall",
+          "Price": ""
+        },
+        {
+          "Name": "CorruptSandstoneWall",
+          "Price": ""
+        },
+        {
+          "Name": "CrimsonSandstoneWall",
+          "Price": ""
+        },
+        {
+          "Name": "HallowSandstoneWall",
+          "Price": ""
+        },
+        {
+          "Name": "DesertFossilWall",
+          "Price": ""
+        },
+        {
+          "Name": "LivingLeafWall",
+          "Price": ""
+        }
+      ]
+    },
+    {
+      "Name": "Walls 3",
+      "Items": [
+        {
+          "Name": "CogWall",
+          "Price": ""
+        },
+        {
+          "Name": "SandFallWall",
+          "Price": ""
+        },
+        {
+          "Name": "SnowFallWall",
+          "Price": ""
+        },
+        {
+          "Name": "SillyBalloonPinkWall",
+          "Price": ""
+        },
+        {
+          "Name": "SillyBalloonPurpleWall",
+          "Price": ""
+        },
+        {
+          "Name": "SillyBalloonGreenWall",
+          "Price": ""
+        },
+        {
+          "Name": "SmoothSandstoneWall",
+          "Price": ""
+        },
+        {
+          "Name": "SpiderWall",
+          "Price": ""
+        },
+        {
+          "Name": "GoldStarryGlassWall",
+          "Price": ""
+        },
+        {
+          "Name": "BlueStarryGlassWall",
+          "Price": ""
+        },
+        {
+          "Name": "MudWallEcho",
+          "Price": ""
+        },
+        {
+          "Name": "SnowWallEcho",
+          "Price": ""
+        },
+        {
+          "Name": "CaveWall1Echo",
+          "Price": ""
+        },
+        {
+          "Name": "CaveWall2Echo",
+          "Price": ""
+        },
+        {
+          "Name": "AmberStoneWallEcho",
+          "Price": ""
+        },
+        {
+          "Name": "WallOfFleshGoatMountItem",
+          "Price": "25g"
+        },
+        {
+          "Name": "AshWoodWall",
+          "Price": ""
+        },
+        {
+          "Name": "EchoWall",
+          "Price": "2s 50c"
+        },
+        {
+          "Name": "ReefWall",
+          "Price": ""
+        },
+        {
+          "Name": "SpiderWallUnsafe",
+          "Price": ""
+        },
+        {
+          "Name": "BlueSlabWallUnsafe",
+          "Price": ""
+        },
+        {
+          "Name": "BlueTiledWallUnsafe",
+          "Price": ""
+        },
+        {
+          "Name": "PinkSlabWallUnsafe",
+          "Price": ""
+        },
+        {
+          "Name": "PinkTiledWallUnsafe",
+          "Price": ""
+        },
+        {
+          "Name": "GreenSlabWallUnsafe",
+          "Price": ""
+        },
+        {
+          "Name": "GreenTiledWallUnsafe",
+          "Price": ""
+        },
+        {
+          "Name": "SandstoneWallUnsafe",
+          "Price": ""
+        },
+        {
+          "Name": "HardenedSandWallUnsafe",
+          "Price": ""
+        },
+        {
+          "Name": "LihzahrdWallUnsafe",
+          "Price": ""
+        },
+        {
+          "Name": "PoopWall",
+          "Price": ""
+        },
+        {
+          "Name": "ShimmerWall",
+          "Price": ""
+        }
+      ]
+    },
+    {
+      "Name": "Torches",
+      "Items": [
+        {
+          "Name": "Torch",
+          "Price": "50c"
+        },
+        {
+          "Name": "TikiTorch",
+          "Price": "5s"
+        },
+        {
+          "Name": "BlueTorch",
+          "Price": "2s"
+        },
+        {
+          "Name": "RedTorch",
+          "Price": "2s"
+        },
+        {
+          "Name": "GreenTorch",
+          "Price": "2s"
+        },
+        {
+          "Name": "PurpleTorch",
+          "Price": "2s"
+        },
+        {
+          "Name": "WhiteTorch",
+          "Price": "5s"
+        },
+        {
+          "Name": "YellowTorch",
+          "Price": "2s"
+        },
+        {
+          "Name": "DemonTorch",
+          "Price": "3s"
+        },
+        {
+          "Name": "CursedTorch",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "IceTorch",
+          "Price": "60c"
+        },
+        {
+          "Name": "OrangeTorch",
+          "Price": "60c"
+        },
+        {
+          "Name": "IchorTorch",
+          "Price": "1s 60c"
+        },
+        {
+          "Name": "UltrabrightTorch",
+          "Price": "3s"
+        },
+        {
+          "Name": "BoneTorch",
+          "Price": "1s"
+        },
+        {
+          "Name": "RainbowTorch",
+          "Price": "2s 50c"
+        },
+        {
+          "Name": "PinkTorch",
+          "Price": "80c"
+        },
+        {
+          "Name": "DesertTorch",
+          "Price": "60c"
+        },
+        {
+          "Name": "CoralTorch",
+          "Price": "60c"
+        },
+        {
+          "Name": "CorruptTorch",
+          "Price": "60c"
+        },
+        {
+          "Name": "CrimsonTorch",
+          "Price": "60c"
+        },
+        {
+          "Name": "HallowedTorch",
+          "Price": "60c"
+        },
+        {
+          "Name": "JungleTorch",
+          "Price": "60c"
+        },
+        {
+          "Name": "TorchGodsFavor",
+          "Price": "10g"
+        },
+        {
+          "Name": "MushroomTorch",
+          "Price": "60c"
+        },
+        {
+          "Name": "ShimmerTorch",
+          "Price": "60c"
+        }
+      ]
+    },
+    {
+      "Name": "Music Boxes 1",
+      "Items": [
+        {
+          "Name": "MusicBoxOverworldDay",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxEerie",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxNight",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxTitle",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxUnderground",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxBoss1",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxJungle",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxCorruption",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxUndergroundCorruption",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxTheHallow",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxBoss2",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxUndergroundHallow",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxBoss3",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBox",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxSnow",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxSpace",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxCrimson",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxBoss4",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxAltOverworldDay",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxRain",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxIce",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxDesert",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOcean",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxDungeon",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxPlantera",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxBoss5",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxTemple",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxEclipse",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxMushrooms",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxPumpkinMoon",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxAltUnderground",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxFrostMoon",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxUndergroundCrimson",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxLunarBoss",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxMartians",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxPirates",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxHell",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxTowers",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxGoblins",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxSandstorm",
+          "Price": "10g"
+        }
+      ]
+    },
+    {
+      "Name": "Music Boxes 2",
+      "Items": [
+        {
+          "Name": "MusicBoxDD2",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOceanAlt",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxSlimeRain",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxSpaceAlt",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxTownDay",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxTownNight",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxWindyDay",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxDayRemix",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxTitleAlt",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxStorm",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxGraveyard",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxUndergroundJungle",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxJungleNight",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxQueenSlime",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxEmpressOfLight",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxDukeFishron",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxMorningRain",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxConsoleTitle",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxUndergroundDesert",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWRain",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWDay",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWNight",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWUnderground",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWDesert",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWOcean",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWMushroom",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWDungeon",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWSpace",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWUnderworld",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWSnow",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWCorruption",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWUndergroundCorruption",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWCrimson",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWUndergroundCrimson",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWUndergroundSnow",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWUndergroundHallow",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWBloodMoon",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWBoss2",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWBoss1",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWInvasion",
+          "Price": "10g"
+        }
+      ]
+    },
+    {
+      "Name": "Music Boxes 3",
+      "Items": [
+        {
+          "Name": "MusicBoxOWTowers",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWMoonLord",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWPlantera",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWJungle",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWWallOfFlesh",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxOWHallow",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxCredits",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxDeerclops",
+          "Price": "10g"
+        },
+        {
+          "Name": "MusicBoxShimmer",
+          "Price": "10g"
+        }
+      ]
+    },
+    {
+      "Name": "Dressers 1",
+      "Items": [
+        {
+          "Name": "Dresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "EbonwoodDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "RichMahoganyDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "PearlwoodDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "ShadewoodDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "BlueDungeonDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "GreenDungeonDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "PinkDungeonDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "GoldenDresser",
+          "Price": "10g"
+        },
+        {
+          "Name": "ObsidianDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "BoneDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "CactusDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "SpookyDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "SkywareDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "HoneyDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "LihzahrdDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "PalmWoodDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "MushroomDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "BorealWoodDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "SlimeDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "PumpkinDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "SteampunkDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "GlassDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "FleshDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "MartianDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "MeteoriteDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "MarbleDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "GraniteDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "CrystalDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "DynastyDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "FrozenDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "LivingWoodDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "SpiderDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "LesionDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "SandstoneDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "BambooDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "CoralDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "BalloonDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "AshWoodDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "SolarDresser",
+          "Price": "3s"
+        }
+      ]
+    },
+    {
+      "Name": "Dressers 2",
+      "Items": [
+        {
+          "Name": "VortexDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "NebulaDresser",
+          "Price": "3s"
+        },
+        {
+          "Name": "StardustDresser",
+          "Price": "3s"
+        }
+      ]
+    },
+    {
+      "Name": "Sofas 1",
+      "Items": [
+        {
+          "Name": "BorealWoodSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "Sofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "EbonwoodSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "RichMahoganySofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "PearlwoodSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "ShadewoodSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "BlueDungeonSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "GreenDungeonSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "PinkDungeonSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "GoldenSofa",
+          "Price": "10g"
+        },
+        {
+          "Name": "ObsidianSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "BoneSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "CactusSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "SpookySofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "SkywareSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "HoneySofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "SteampunkSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "MushroomSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "GlassSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "PumpkinSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "LihzahrdSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "PalmWoodSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "SlimeSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "FleshSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "FrozenSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "LivingWoodSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "MartianSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "MeteoriteSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "MarbleSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "GraniteSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "CrystalSofaHowDoesThatEvenWork",
+          "Price": "3s"
+        },
+        {
+          "Name": "DynastySofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "SpiderSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "LesionSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "SandstoneSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "BambooSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "CoralSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "BalloonSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "AshWoodSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "SolarSofa",
+          "Price": "3s"
+        }
+      ]
+    },
+    {
+      "Name": "Sofas 2",
+      "Items": [
+        {
+          "Name": "VortexSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "NebulaSofa",
+          "Price": "3s"
+        },
+        {
+          "Name": "StardustSofa",
+          "Price": "3s"
+        }
+      ]
+    },
+    {
+      "Name": "Pianos 1",
+      "Items": [
+        {
+          "Name": "Piano",
+          "Price": "3s"
+        },
+        {
+          "Name": "EbonwoodPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "RichMahoganyPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "PearlwoodPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "ShadewoodPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "LivingWoodPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "FleshPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "FrozenPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "GlassPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "HoneyPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "SteampunkPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "BlueDungeonPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "GreenDungeonPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "PinkDungeonPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "GoldenPiano",
+          "Price": "10g"
+        },
+        {
+          "Name": "ObsidianPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "BonePiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "CactusPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "SpookyPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "SkywarePiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "LihzahrdPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "PalmWoodPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "MushroomPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "BorealWoodPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "SlimePiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "PumpkinPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "MartianPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "MeteoritePiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "MarblePiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "GranitePiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "CrystalPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "DynastyPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "SpiderPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "LesionPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "SandstonePiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "BambooPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "CoralPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "BalloonPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "AshWoodPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "SolarPiano",
+          "Price": "3s"
+        }
+      ]
+    },
+    {
+      "Name": "Pianos 2",
+      "Items": [
+        {
+          "Name": "VortexPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "NebulaPiano",
+          "Price": "3s"
+        },
+        {
+          "Name": "StardustPiano",
+          "Price": "3s"
+        }
+      ]
+    },
+    {
+      "Name": "Toilets 1",
+      "Items": [
+        {
+          "Name": "Toilet",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "GoldenToilet",
+          "Price": "10g"
+        },
+        {
+          "Name": "ToiletEbonyWood",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletRichMahogany",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletPearlwood",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletLivingWood",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletCactus",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletBone",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletFlesh",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletMushroom",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletSunplate",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletShadewood",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletLihzhard",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletDungeonBlue",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletDungeonGreen",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletDungeonPink",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletObsidian",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletFrozen",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletGlass",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletHoney",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletSteampunk",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletPumpkin",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletSpooky",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletDynasty",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletPalm",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletBoreal",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletSlime",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletMartian",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletGranite",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletMarble",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletCrystal",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletSpider",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletLesion",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ToiletDiamond",
+          "Price": "10g"
+        },
+        {
+          "Name": "ToiletMeteor",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SandstoneToilet",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "BambooToilet",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "TerraToilet",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "CoralToilet",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "BalloonToilet",
+          "Price": "1s 50c"
+        }
+      ]
+    },
+    {
+      "Name": "Toilets 2",
+      "Items": [
+        {
+          "Name": "AshWoodToilet",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SolarToilet",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "VortexToilet",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "NebulaToilet",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "StardustToilet",
+          "Price": "1s 50c"
+        }
+      ]
+    },
+    {
+      "Name": "Lamps 1",
+      "Items": [
+        {
+          "Name": "LampPost",
+          "Price": "5s"
+        },
+        {
+          "Name": "DiablostLamp",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "CactusLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "EbonwoodLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "FleshLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "GlassLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "FrozenLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "RichMahoganyLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "PearlwoodLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "LihzahrdLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "SkywareLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "SpookyLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "HoneyLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "SteampunkLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "LivingWoodLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "ShadewoodLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "GoldenLamp",
+          "Price": "10g"
+        },
+        {
+          "Name": "BoneLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "DynastyLamp",
+          "Price": "1s 20c"
+        },
+        {
+          "Name": "PalmWoodLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "MushroomLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "BorealWoodLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "SlimeLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "PumpkinLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "ObsidianLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "BlueDungeonLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "GreenDungeonLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "PinkDungeonLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "MartianLamppost",
+          "Price": "5s"
+        },
+        {
+          "Name": "MeteoriteLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "MarbleLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "GraniteLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "LavaLamp",
+          "Price": "2g"
+        },
+        {
+          "Name": "LogicGateLamp_Off",
+          "Price": "10s"
+        },
+        {
+          "Name": "LogicGateLamp_On",
+          "Price": "10s"
+        },
+        {
+          "Name": "LogicGateLamp_Faulty",
+          "Price": "2g"
+        },
+        {
+          "Name": "DjinnLamp",
+          "Price": "2g 50s"
+        },
+        {
+          "Name": "CrystalLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "SpiderLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "LesionLamp",
+          "Price": "5s"
+        }
+      ]
+    },
+    {
+      "Name": "Lamps 2",
+      "Items": [
+        {
+          "Name": "SandstoneLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "PlasmaLamp",
+          "Price": "2g"
+        },
+        {
+          "Name": "BambooLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "CoralLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "BalloonLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "AshWoodLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "SolarLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "VortexLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "NebulaLamp",
+          "Price": "5s"
+        },
+        {
+          "Name": "StardustLamp",
+          "Price": "5s"
+        }
+      ]
+    },
+    {
+      "Name": "Platforms 1",
+      "Items": [
+        {
+          "Name": "WoodPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "EbonwoodPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "RichMahoganyPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "PearlwoodPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "BonePlatform",
+          "Price": ""
+        },
+        {
+          "Name": "ShadewoodPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "BlueBrickPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "PinkBrickPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "GreenBrickPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "ObsidianPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "GlassPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "PumpkinPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "SpookyPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "PalmWoodPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "MushroomPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "BorealWoodPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "SlimePlatform",
+          "Price": ""
+        },
+        {
+          "Name": "SteampunkPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "SkywarePlatform",
+          "Price": ""
+        },
+        {
+          "Name": "LivingWoodPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "HoneyPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "CactusPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "MartianPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "MeteoritePlatform",
+          "Price": ""
+        },
+        {
+          "Name": "MarblePlatform",
+          "Price": ""
+        },
+        {
+          "Name": "GranitePlatform",
+          "Price": ""
+        },
+        {
+          "Name": "TeamBlockRedPlatform",
+          "Price": "1s"
+        },
+        {
+          "Name": "TeamBlockGreenPlatform",
+          "Price": "1s"
+        },
+        {
+          "Name": "TeamBlockBluePlatform",
+          "Price": "1s"
+        },
+        {
+          "Name": "TeamBlockYellowPlatform",
+          "Price": "1s"
+        },
+        {
+          "Name": "TeamBlockPinkPlatform",
+          "Price": "1s"
+        },
+        {
+          "Name": "TeamBlockWhitePlatform",
+          "Price": "1s"
+        },
+        {
+          "Name": "CrystalPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "GoldenPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "DynastyPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "LihzahrdPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "FleshPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "FrozenPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "SpiderPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "LesionPlatform",
+          "Price": ""
+        }
+      ]
+    },
+    {
+      "Name": "Platforms 2",
+      "Items": [
+        {
+          "Name": "SandstonePlatform",
+          "Price": ""
+        },
+        {
+          "Name": "StonePlatform",
+          "Price": ""
+        },
+        {
+          "Name": "BambooPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "CoralPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "BalloonPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "AshWoodPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "EchoPlatform",
+          "Price": "5s"
+        },
+        {
+          "Name": "SolarPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "VortexPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "NebulaPlatform",
+          "Price": ""
+        },
+        {
+          "Name": "StardustPlatform",
+          "Price": ""
+        }
+      ]
+    },
+    {
+      "Name": "Clocks 1",
+      "Items": [
+        {
+          "Name": "GrandfatherClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "FastClock",
+          "Price": "10g"
+        },
+        {
+          "Name": "DynastyClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "GoldenClock",
+          "Price": "10g"
+        },
+        {
+          "Name": "GlassClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "HoneyClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "SteampunkClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "BorealWoodClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "SlimeClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "BoneClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "CactusClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "EbonwoodClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "FrozenClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "LihzahrdClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "LivingWoodClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "RichMahoganyClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "FleshClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "MushroomClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "ObsidianClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "PalmWoodClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "PearlwoodClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "PumpkinClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "ShadewoodClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "SpookyClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "SkywareClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "MartianAstroClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "MeteoriteClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "MarbleClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "GraniteClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "CrystalClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "SkywareClock2",
+          "Price": "3s"
+        },
+        {
+          "Name": "DungeonClockBlue",
+          "Price": "3s"
+        },
+        {
+          "Name": "DungeonClockGreen",
+          "Price": "3s"
+        },
+        {
+          "Name": "DungeonClockPink",
+          "Price": "3s"
+        },
+        {
+          "Name": "SpiderClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "LesionClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "SandstoneClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "BambooClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "CoralClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "BalloonClock",
+          "Price": "3s"
+        }
+      ]
+    },
+    {
+      "Name": "Clocks 2",
+      "Items": [
+        {
+          "Name": "AshWoodClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "SolarClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "VortexClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "NebulaClock",
+          "Price": "3s"
+        },
+        {
+          "Name": "StardustClock",
+          "Price": "3s"
+        }
+      ]
+    },
+    {
+      "Name": "Bathtubs 1",
+      "Items": [
+        {
+          "Name": "Bathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "CactusBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "EbonwoodBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "FleshBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "GlassBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "FrozenBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "RichMahoganyBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "PearlwoodBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "LihzahrdBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "SkywareBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "SpookyBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "HoneyBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "SteampunkBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "LivingWoodBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "ShadewoodBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "BoneBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "DynastyBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "PalmWoodBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "MushroomBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "BorealWoodBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "SlimeBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "BlueDungeonBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "GreenDungeonBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "PinkDungeonBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "PumpkinBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "ObsidianBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "GoldenBathtub",
+          "Price": "10g"
+        },
+        {
+          "Name": "MartianBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "MeteoriteBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "MarbleBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "GraniteBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "CrystalBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "SpiderBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "LesionBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "SandstoneBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "BambooBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "CoralBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "BalloonBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "AshWoodBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "SolarBathtub",
+          "Price": "3s"
+        }
+      ]
+    },
+    {
+      "Name": "Bathtubs 2",
+      "Items": [
+        {
+          "Name": "VortexBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "NebulaBathtub",
+          "Price": "3s"
+        },
+        {
+          "Name": "StardustBathtub",
+          "Price": "3s"
+        }
+      ]
+    },
+    {
+      "Name": "Beds 1",
+      "Items": [
+        {
+          "Name": "Bed",
+          "Price": "20s"
+        },
+        {
+          "Name": "EbonwoodBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "RichMahoganyBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "PearlwoodBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "ShadewoodBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "BlueDungeonBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "GreenDungeonBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "PinkDungeonBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "ObsidianBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "GlassBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "GoldenBed",
+          "Price": "10g"
+        },
+        {
+          "Name": "HoneyBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "SteampunkBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "CactusBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "FleshBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "FrozenBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "LihzahrdBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "SkywareBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "SpookyBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "LivingWoodBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "BoneBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "DynastyBed",
+          "Price": "6s"
+        },
+        {
+          "Name": "PalmWoodBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "MushroomBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "BorealWoodBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "SlimeBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "PumpkinBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "MartianBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "MeteoriteBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "MarbleBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "GraniteBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "CrystalBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "SpiderBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "LesionBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "SandstoneBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "BambooBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "CoralBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "BalloonBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "AshWoodBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "SolarBed",
+          "Price": "20s"
+        }
+      ]
+    },
+    {
+      "Name": "Beds 2",
+      "Items": [
+        {
+          "Name": "VortexBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "NebulaBed",
+          "Price": "20s"
+        },
+        {
+          "Name": "StardustBed",
+          "Price": "20s"
+        }
+      ]
+    },
+    {
+      "Name": "Candles 1",
+      "Items": [
+        {
+          "Name": "Candle",
+          "Price": "15s"
+        },
+        {
+          "Name": "WaterCandle",
+          "Price": "5s"
+        },
+        {
+          "Name": "PlatinumCandle",
+          "Price": "15s"
+        },
+        {
+          "Name": "BlueDungeonCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "GreenDungeonCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "PinkDungeonCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "CactusCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "EbonwoodCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "FleshCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "GlassCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "FrozenCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "RichMahoganyCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "PearlwoodCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "LihzahrdCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "SkywareCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "PumpkinCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "LivingWoodCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "ShadewoodCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "GoldenCandle",
+          "Price": "10g"
+        },
+        {
+          "Name": "DynastyCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "PalmWoodCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "MushroomCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "BorealWoodCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "SlimeCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "HoneyCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "SteampunkCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "SpookyCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "ObsidianCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "MartianHoverCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "PeaceCandle",
+          "Price": "5s"
+        },
+        {
+          "Name": "MeteoriteCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "MarbleCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "GraniteCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "CrystalCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "SpiderCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "LesionCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "SandstoneCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "BambooCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "CoralCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "BalloonCandle",
+          "Price": "3s"
+        }
+      ]
+    },
+    {
+      "Name": "Candles 2",
+      "Items": [
+        {
+          "Name": "AshWoodCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "ShadowCandle",
+          "Price": "5s"
+        },
+        {
+          "Name": "SolarCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "VortexCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "NebulaCandle",
+          "Price": "3s"
+        },
+        {
+          "Name": "StardustCandle",
+          "Price": "3s"
+        }
+      ]
+    },
+    {
+      "Name": "Workbenches 1",
+      "Items": [
+        {
+          "Name": "WorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "EbonwoodWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "RichMahoganyWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "PearlwoodWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "BorealWoodWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "BoneWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "CactusWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "FleshWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "MushroomWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SlimeWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ShadewoodWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "LihzahrdWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "BlueDungeonWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "GreenDungeonWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "PinkDungeonWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ObsidianWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "GothicWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "PumpkinWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SpookyWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "HeavyWorkBench",
+          "Price": "5s"
+        },
+        {
+          "Name": "DynastyWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "HoneyWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "FrozenWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SteampunkWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "PalmWoodWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SkywareWorkbench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "GlassWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "LivingWoodWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "MartianWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "MeteoriteWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "MarbleWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "GraniteWorkBench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "CrystalWorkbench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "GoldenWorkbench",
+          "Price": "10g"
+        },
+        {
+          "Name": "SpiderWorkbench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "LesionWorkbench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SandstoneWorkbench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "BambooWorkbench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "CoralWorkbench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "BalloonWorkbench",
+          "Price": "1s 50c"
+        }
+      ]
+    },
+    {
+      "Name": "Workbenches 2",
+      "Items": [
+        {
+          "Name": "AshWoodWorkbench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SolarWorkbench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "VortexWorkbench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "NebulaWorkbench",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "StardustWorkbench",
+          "Price": "1s 50c"
+        }
+      ]
+    },
+    {
+      "Name": "Trophies 1",
+      "Items": [
+        {
+          "Name": "EyeofCthulhuTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "EaterofWorldsTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "BrainofCthulhuTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "SkeletronTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "QueenBeeTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "WallofFleshTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "DestroyerTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "SkeletronPrimeTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "RetinazerTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "SpazmatismTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "PlanteraTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "GolemTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "MourningWoodTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "PumpkingTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "IceQueenTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "SantaNK1Trophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "EverscreamTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "GoldfishTrophy",
+          "Price": "2g 50s"
+        },
+        {
+          "Name": "BunnyfishTrophy",
+          "Price": "2g 50s"
+        },
+        {
+          "Name": "SwordfishTrophy",
+          "Price": "2g 50s"
+        },
+        {
+          "Name": "SharkteethTrophy",
+          "Price": "2g 50s"
+        },
+        {
+          "Name": "KingSlimeTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "DukeFishronTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "AncientCultistTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "MartianSaucerTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "FlyingDutchmanTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "MoonLordTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "BossTrophyBetsy",
+          "Price": "5g"
+        },
+        {
+          "Name": "BossTrophyDarkmage",
+          "Price": "5g"
+        },
+        {
+          "Name": "BossTrophyOgre",
+          "Price": "5g"
+        },
+        {
+          "Name": "GolfTrophyBronze",
+          "Price": "1g"
+        },
+        {
+          "Name": "GolfTrophySilver",
+          "Price": "1g"
+        },
+        {
+          "Name": "GolfTrophyGold",
+          "Price": "1g"
+        },
+        {
+          "Name": "FairyQueenTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "EyeofCthulhuMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "EaterofWorldsMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "BrainofCthulhuMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "SkeletronMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "QueenBeeMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "KingSlimeMasterTrophy",
+          "Price": "5g"
+        }
+      ]
+    },
+    {
+      "Name": "Trophies 2",
+      "Items": [
+        {
+          "Name": "WallofFleshMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "TwinsMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "DestroyerMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "SkeletronPrimeMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "PlanteraMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "GolemMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "DukeFishronMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "LunaticCultistMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "MoonLordMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "UFOMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "FlyingDutchmanMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "MourningWoodMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "PumpkingMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "IceQueenMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "EverscreamMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "SantankMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "DarkMageMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "OgreMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "BetsyMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "FairyQueenMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "QueenSlimeMasterTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "QueenSlimeTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "DeerclopsTrophy",
+          "Price": "5g"
+        },
+        {
+          "Name": "DeerclopsMasterTrophy",
+          "Price": "5g"
+        }
+      ]
+    },
+    {
+      "Name": "Bookcases 1",
+      "Items": [
+        {
+          "Name": "Bookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "BlueDungeonBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "GreenDungeonBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "PinkDungeonBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "ObsidianBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "GothicBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "CactusBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "EbonwoodBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "FleshBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "HoneyBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "SteampunkBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "GlassBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "RichMahoganyBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "PearlwoodBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "SpookyBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "SkywareBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "LihzahrdBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "FrozenBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "LivingWoodBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "ShadewoodBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "GoldenBookcase",
+          "Price": "10g"
+        },
+        {
+          "Name": "BoneBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "DynastyBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "PalmWoodBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "MushroomBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "BorealWoodBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "SlimeBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "PumpkinBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "MartianHolobookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "MeteoriteBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "MarbleBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "GraniteBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "CrystalBookCase",
+          "Price": "3s"
+        },
+        {
+          "Name": "SpiderBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "LesionBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "SandstoneBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "BambooBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "CoralBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "BalloonBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "AshWoodBookcase",
+          "Price": "3s"
+        }
+      ]
+    },
+    {
+      "Name": "Bookcases 2",
+      "Items": [
+        {
+          "Name": "SolarBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "VortexBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "NebulaBookcase",
+          "Price": "3s"
+        },
+        {
+          "Name": "StardustBookcase",
+          "Price": "3s"
+        }
+      ]
+    },
+    {
+      "Name": "Lanterns 1",
+      "Items": [
+        {
+          "Name": "ChainLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ChineseLantern",
+          "Price": "5s"
+        },
+        {
+          "Name": "SkullLantern",
+          "Price": "5s"
+        },
+        {
+          "Name": "BrassLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "CagedLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "CarriageLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "AlchemyLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "JackOLanternLauncher",
+          "Price": "50g"
+        },
+        {
+          "Name": "ExplosiveJackOLantern",
+          "Price": "15c"
+        },
+        {
+          "Name": "HangingJackOLantern",
+          "Price": ""
+        },
+        {
+          "Name": "JackOLantern",
+          "Price": ""
+        },
+        {
+          "Name": "JackOLanternMask",
+          "Price": "25g"
+        },
+        {
+          "Name": "HeartLantern",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "CactusLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "EbonwoodLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "FleshLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "HoneyLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SteampunkLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "GlassLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "RichMahoganyLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "PearlwoodLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "FrozenLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "LihzahrdLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SkywareLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SpookyLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "LivingWoodLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ShadewoodLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "GoldenLantern",
+          "Price": "10g"
+        },
+        {
+          "Name": "BoneLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "DynastyLantern",
+          "Price": "2s"
+        },
+        {
+          "Name": "PalmWoodLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "MushroomLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "BorealWoodLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SlimeLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "PumpkinLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ObsidianLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "MartianLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "MagicLantern",
+          "Price": "10g"
+        },
+        {
+          "Name": "MeteoriteLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "MarbleLantern",
+          "Price": "1s 50c"
+        }
+      ]
+    },
+    {
+      "Name": "Lanterns 2",
+      "Items": [
+        {
+          "Name": "GraniteLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "CrystalLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SpiderLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "LesionLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SandstoneLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "BambooLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "ReleaseLantern",
+          "Price": "1s"
+        },
+        {
+          "Name": "CoralLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "BalloonLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "AshWoodLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "SolarLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "VortexLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "NebulaLantern",
+          "Price": "1s 50c"
+        },
+        {
+          "Name": "StardustLantern",
+          "Price": "1s 50c"
+        }
+      ]
+    },
+    {
+      "Name": "Fences",
+      "Items": [
+        {
+          "Name": "WoodenFence",
+          "Price": ""
+        },
+        {
+          "Name": "LeadFence",
+          "Price": ""
+        },
+        {
+          "Name": "EbonwoodFence",
+          "Price": ""
+        },
+        {
+          "Name": "RichMahoganyFence",
+          "Price": ""
+        },
+        {
+          "Name": "PearlwoodFence",
+          "Price": ""
+        },
+        {
+          "Name": "ShadewoodFence",
+          "Price": ""
+        },
+        {
+          "Name": "IronFence",
+          "Price": ""
+        },
+        {
+          "Name": "BorealWoodFence",
+          "Price": ""
+        },
+        {
+          "Name": "PalmWoodFence",
+          "Price": ""
+        },
+        {
+          "Name": "WroughtIronFence",
+          "Price": ""
+        },
+        {
+          "Name": "BambooFence",
+          "Price": ""
+        },
+        {
+          "Name": "AshWoodFence",
+          "Price": ""
+        }
+      ]
+    },
+    {
+      "Name": "Candelabras 1",
+      "Items": [
+        {
+          "Name": "Candelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "PlatinumCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "CactusCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "EbonwoodCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "FleshCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "HoneyCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "SteampunkCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "GlassCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "RichMahoganyCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "PearlwoodCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "FrozenCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "LihzahrdCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "SkywareCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "SpookyCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "LivingWoodCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "ShadewoodCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "GoldenCandelabra",
+          "Price": "10g"
+        },
+        {
+          "Name": "BoneCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "DynastyCandelabra",
+          "Price": "1s 20c"
+        },
+        {
+          "Name": "PalmWoodCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "MushroomCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "BorealWoodCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "SlimeCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "BlueDungeonCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "GreenDungeonCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "PinkDungeonCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "ObsidianCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "PumpkinCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "MeteoriteCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "MarbleCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "GraniteCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "CrystalCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "SpiderCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "LesionCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "SandstoneCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "BambooCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "CoralCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "BalloonCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "AshWoodCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "SolarCandelabra",
+          "Price": "15s"
+        }
+      ]
+    },
+    {
+      "Name": "Candelabras 2",
+      "Items": [
+        {
+          "Name": "VortexCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "NebulaCandelabra",
+          "Price": "15s"
+        },
+        {
+          "Name": "StardustCandelabra",
+          "Price": "15s"
+        }
+      ]
+    },
+    {
+      "Name": "Campfires",
+      "Items": [
+        {
+          "Name": "Campfire",
+          "Price": ""
+        },
+        {
+          "Name": "CursedCampfire",
+          "Price": ""
+        },
+        {
+          "Name": "DemonCampfire",
+          "Price": ""
+        },
+        {
+          "Name": "FrozenCampfire",
+          "Price": ""
+        },
+        {
+          "Name": "IchorCampfire",
+          "Price": ""
+        },
+        {
+          "Name": "RainbowCampfire",
+          "Price": ""
+        },
+        {
+          "Name": "UltraBrightCampfire",
+          "Price": ""
+        },
+        {
+          "Name": "BoneCampfire",
+          "Price": ""
+        },
+        {
+          "Name": "DesertCampfire",
+          "Price": ""
+        },
+        {
+          "Name": "CoralCampfire",
+          "Price": ""
+        },
+        {
+          "Name": "CorruptCampfire",
+          "Price": ""
+        },
+        {
+          "Name": "CrimsonCampfire",
+          "Price": ""
+        },
+        {
+          "Name": "HallowedCampfire",
+          "Price": ""
+        },
+        {
+          "Name": "JungleCampfire",
+          "Price": ""
+        },
+        {
+          "Name": "MushroomCampfire",
+          "Price": ""
+        },
+        {
+          "Name": "ShimmerCampfire",
+          "Price": ""
+        }
+      ]
+    }
+  ]
+}

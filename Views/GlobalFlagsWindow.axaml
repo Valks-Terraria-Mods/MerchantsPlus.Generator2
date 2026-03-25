@@ -1,0 +1,146 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="using:MerchantsPlus.Generator"
+        x:Class="MerchantsPlus.Generator.GlobalFlagsWindow"
+        x:Name="GlobalFlagsRoot"
+        Width="1520"
+        Height="900"
+        MinWidth="1040"
+        MinHeight="720"
+        CanResize="True"
+        Background="#131517"
+        Title="Global Flags"
+        WindowStartupLocation="CenterOwner"
+        mc:Ignorable="d">
+
+  <Window.Resources>
+    <SolidColorBrush x:Key="TextControlBackground" Color="#23272D" />
+    <SolidColorBrush x:Key="TextControlBackgroundPointerOver" Color="#23272D" />
+    <SolidColorBrush x:Key="TextControlBackgroundFocused" Color="#23272D" />
+    <SolidColorBrush x:Key="TextControlBorderBrushPointerOver" Color="#3B414A" />
+    <SolidColorBrush x:Key="TextControlBorderBrushFocused" Color="#3B414A" />
+  </Window.Resources>
+
+  <Window.Styles>
+    <Style Selector="TextBlock">
+      <Setter Property="Foreground" Value="#CDD2DA" />
+    </Style>
+    <Style Selector="TextBox">
+      <Setter Property="Background" Value="#23272D" />
+      <Setter Property="BorderBrush" Value="#3B414A" />
+      <Setter Property="Foreground" Value="#D5DAE2" />
+      <Setter Property="CornerRadius" Value="8" />
+      <Setter Property="Padding" Value="10,8" />
+    </Style>
+  </Window.Styles>
+
+  <Grid Margin="18" RowDefinitions="Auto,*,Auto">
+    <StackPanel Spacing="4">
+      <TextBlock Text="Global Flags" FontSize="24" FontWeight="SemiBold" Foreground="#E6EAF1" />
+      <TextBlock Text="Applies to all shops. The Unorganized editor remains excluded." TextWrapping="Wrap" />
+    </StackPanel>
+
+    <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto" Margin="0,12,0,12">
+      <Grid ColumnDefinitions="1.2*,1.8*">
+        <Border Grid.Column="0" Padding="14" CornerRadius="12" Background="#23272D" BorderBrush="#3C434D" BorderThickness="1" Margin="0,0,8,0">
+          <StackPanel Spacing="10">
+            <TextBlock Text="First Order Items" FontWeight="SemiBold" Foreground="#DCE1EA" />
+            <TextBox MinHeight="130"
+                     AcceptsReturn="True"
+                     TextWrapping="Wrap"
+                     Watermark="Comma/newline separated items that should be sorted first"
+                     Text="{Binding GlobalFirstOrderItems}" />
+            <TextBlock Text="Last Order Items" FontWeight="SemiBold" Foreground="#DCE1EA" Margin="0,8,0,0" />
+            <TextBox MinHeight="130"
+                     AcceptsReturn="True"
+                     TextWrapping="Wrap"
+                     Watermark="Comma/newline separated items that should be sorted last"
+                     Text="{Binding GlobalLastOrderItems}" />
+            <Separator Margin="0,10,0,4" />
+            <TextBlock Text="Default for unassigned items (base price 0)" FontWeight="SemiBold" Foreground="#DCE1EA" />
+            <Grid ColumnDefinitions="Auto,70,Auto,70,Auto,70,Auto,70" HorizontalAlignment="Left">
+              <TextBlock Text="Platinum" VerticalAlignment="Center" Margin="0,0,8,0" />
+              <TextBox Grid.Column="1" Width="70" HorizontalAlignment="Left" Text="{Binding UnassignedPricePlatinum}" />
+              <TextBlock Grid.Column="2" Text="Gold" VerticalAlignment="Center" Margin="10,0,8,0" />
+              <TextBox Grid.Column="3" Width="70" HorizontalAlignment="Left" Text="{Binding UnassignedPriceGold}" />
+              <TextBlock Grid.Column="4" Text="Silver" VerticalAlignment="Center" Margin="10,0,8,0" />
+              <TextBox Grid.Column="5" Width="70" HorizontalAlignment="Left" Text="{Binding UnassignedPriceSilver}" />
+              <TextBlock Grid.Column="6" Text="Copper" VerticalAlignment="Center" Margin="10,0,8,0" />
+              <TextBox Grid.Column="7" Width="70" HorizontalAlignment="Left" Text="{Binding UnassignedPriceCopper}" />
+            </Grid>
+            <StackPanel Orientation="Horizontal" Spacing="8">
+              <Button Content="Save Unassigned Default" Click="OnSaveUnassignedDefaultPriceClick" />
+              <Button Content="Clear Unassigned Default" Click="OnResetUnassignedDefaultPriceClick" />
+            </StackPanel>
+            <Separator Margin="0,10,0,4" />
+            <StackPanel Orientation="Horizontal" Spacing="8">
+              <Button Content="Reset All Prices" Click="OnResetAllPricesClick" />
+              <Button Content="Reset All Conditions" Click="OnResetAllConditionsClick" />
+            </StackPanel>
+          </StackPanel>
+        </Border>
+
+        <Grid Grid.Column="1" RowDefinitions="*,*" Margin="8,0,0,0">
+          <Border Grid.Row="0" Padding="14" CornerRadius="12" Background="#23272D" BorderBrush="#3C434D" BorderThickness="1" Margin="0,0,0,7">
+            <StackPanel Spacing="10">
+              <TextBlock Text="Whitelist Rules" FontWeight="SemiBold" Foreground="#DCE1EA" />
+              <StackPanel Orientation="Horizontal" Spacing="8">
+                <ComboBox Width="140" ItemsSource="{Binding RuleMatches}" SelectedItem="{Binding NewGlobalWhitelistRuleMatch}" />
+                <TextBox Width="300" Watermark="Rule term" Text="{Binding NewGlobalWhitelistRuleTerm}" />
+                <Button Content="Add Rule" Click="OnAddGlobalWhitelistRuleClick" />
+              </StackPanel>
+              <Border BorderBrush="#3C434D" BorderThickness="1" CornerRadius="8" Padding="8">
+                <ScrollViewer MaxHeight="220" VerticalScrollBarVisibility="Auto">
+                  <ItemsControl ItemsSource="{Binding GlobalWhitelistRules}">
+                    <ItemsControl.ItemTemplate>
+                      <DataTemplate>
+                        <Grid ColumnDefinitions="130,*,Auto" Margin="0,0,0,6">
+                          <ComboBox Grid.Column="0" Margin="0,0,8,0" ItemsSource="{Binding DataContext.RuleMatches, ElementName=GlobalFlagsRoot}" SelectedItem="{Binding Match, Mode=TwoWay}" />
+                          <TextBox Grid.Column="1" Margin="0,0,8,0" Text="{Binding Term, Mode=TwoWay}" />
+                          <Button Grid.Column="2" Content="Remove" Click="OnRemoveGlobalWhitelistRuleClick" />
+                        </Grid>
+                      </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                  </ItemsControl>
+                </ScrollViewer>
+              </Border>
+            </StackPanel>
+          </Border>
+
+          <Border Grid.Row="1" Padding="14" CornerRadius="12" Background="#23272D" BorderBrush="#3C434D" BorderThickness="1" Margin="0,7,0,0">
+            <StackPanel Spacing="10">
+              <TextBlock Text="Blacklist Rules" FontWeight="SemiBold" Foreground="#DCE1EA" />
+              <StackPanel Orientation="Horizontal" Spacing="8">
+                <ComboBox Width="140" ItemsSource="{Binding RuleMatches}" SelectedItem="{Binding NewGlobalBlacklistRuleMatch}" />
+                <TextBox Width="300" Watermark="Rule term" Text="{Binding NewGlobalBlacklistRuleTerm}" />
+                <Button Content="Add Rule" Click="OnAddGlobalBlacklistRuleClick" />
+              </StackPanel>
+              <Border BorderBrush="#3C434D" BorderThickness="1" CornerRadius="8" Padding="8">
+                <ScrollViewer MaxHeight="220" VerticalScrollBarVisibility="Auto">
+                  <ItemsControl ItemsSource="{Binding GlobalBlacklistRules}">
+                    <ItemsControl.ItemTemplate>
+                      <DataTemplate>
+                        <Grid ColumnDefinitions="130,*,Auto" Margin="0,0,0,6">
+                          <ComboBox Grid.Column="0" Margin="0,0,8,0" ItemsSource="{Binding DataContext.RuleMatches, ElementName=GlobalFlagsRoot}" SelectedItem="{Binding Match, Mode=TwoWay}" />
+                          <TextBox Grid.Column="1" Margin="0,0,8,0" Text="{Binding Term, Mode=TwoWay}" />
+                          <Button Grid.Column="2" Content="Remove" Click="OnRemoveGlobalBlacklistRuleClick" />
+                        </Grid>
+                      </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                  </ItemsControl>
+                </ScrollViewer>
+              </Border>
+            </StackPanel>
+          </Border>
+        </Grid>
+      </Grid>
+    </ScrollViewer>
+
+    <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Spacing="10">
+      <Button Content="Apply Global Flags" Click="OnApplyGlobalFlagsClick" />
+      <Button Content="Close" Click="OnCloseClick" />
+    </StackPanel>
+  </Grid>
+</Window>

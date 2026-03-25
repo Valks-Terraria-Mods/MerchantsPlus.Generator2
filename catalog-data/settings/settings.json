@@ -1,0 +1,58 @@
+{
+  "TModLoaderDllPath": "/home/valk/.steam/steam/steamapps/common/tModLoader/tModLoader.dll",
+  "AllowedMerchantNpcIds": [
+    "Guide",
+    "Merchant",
+    "Nurse",
+    "Demolitionist",
+    "DyeTrader",
+    "Angler",
+    "BestiaryGirl",
+    "Dryad",
+    "Painter",
+    "Golfer",
+    "ArmsDealer",
+    "DD2Bartender",
+    "Stylist",
+    "GoblinTinkerer",
+    "WitchDoctor",
+    "Clothier",
+    "Mechanic",
+    "PartyGirl",
+    "Wizard",
+    "TaxCollector",
+    "Truffle",
+    "Pirate",
+    "Steampunker",
+    "Cyborg",
+    "SantaClaus",
+    "Princess",
+    "TravellingMerchant",
+    "TravelingMerchant",
+    "SkeletonMerchant",
+    "OldMan",
+    "TownCat",
+    "TownDog",
+    "TownBunny",
+    "TownSlimeBlue",
+    "TownSlimeCopper",
+    "TownSlimeGreen",
+    "TownSlimeOld",
+    "TownSlimePurple",
+    "TownSlimeRainbow",
+    "TownSlimeRed",
+    "TownSlimeYellow"
+  ],
+  "AlwaysIncludeMerchantNpcIds": [
+    "OldMan"
+  ],
+  "DownedFlagPrefixes": [
+    "downed"
+  ],
+  "MainFlags": [
+    "Main.hardMode"
+  ],
+  "AppTextScale": 1,
+  "TreeViewTextScale": 1,
+  "AppTheme": "Dark"
+}

@@ -1,0 +1,62 @@
+{
+  "Rules": [
+    {
+      "Mode": "Blacklist",
+      "Match": "Prefix",
+      "Term": "fake"
+    },
+    {
+      "Mode": "Blacklist",
+      "Match": "Prefix",
+      "Term": "none"
+    },
+    {
+      "Mode": "Blacklist",
+      "Match": "Suffix",
+      "Term": "coin"
+    },
+    {
+      "Mode": "Blacklist",
+      "Match": "Suffix",
+      "Term": "old"
+    },
+    {
+      "Mode": "Whitelist",
+      "Match": "Contains",
+      "Term": "luckycoin"
+    },
+    {
+      "Mode": "Whitelist",
+      "Match": "Suffix",
+      "Term": "fold"
+    },
+    {
+      "Mode": "Whitelist",
+      "Match": "Suffix",
+      "Term": "gold"
+    },
+    {
+      "Mode": "Whitelist",
+      "Match": "Suffix",
+      "Term": "mold"
+    }
+  ],
+  "WhitelistKeywords": [
+    "luckycoin"
+  ],
+  "WhitelistPrefixKeywords": [],
+  "WhitelistSuffixKeywords": [
+    "fold",
+    "gold",
+    "mold"
+  ],
+  "PrefixKeywords": [
+    "fake",
+    "none"
+  ],
+  "SuffixKeywords": [
+    "coin",
+    "old"
+  ],
+  "ContainsKeywords": []
+}

@@ -1,0 +1,50 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="using:MerchantsPlus.Generator"
+             x:Class="MerchantsPlus.Generator.StatsWorkspaceView">
+  <Grid>
+    <Border Padding="14" CornerRadius="12" Background="{DynamicResource PanelBackgroundBrush}" BorderBrush="{DynamicResource PanelBorderBrush}" BorderThickness="1">
+      <StackPanel Spacing="10">
+        <TextBlock Text="Workspace Stats" FontSize="{Binding AppFontSize, Converter={StaticResource MultiplyDoubleConverter}, ConverterParameter=1.4285714286, FallbackValue=14, TargetNullValue=14}" FontWeight="SemiBold" Foreground="{DynamicResource TextPrimaryBrush}" />
+        <TextBlock Text="Current catalog and merchant-assignment summary." Foreground="{DynamicResource TextMutedBrush}" />
+
+        <StackPanel Margin="0,8,0,0" Spacing="8" HorizontalAlignment="Left">
+          <StackPanel Orientation="Horizontal" Spacing="10">
+            <TextBlock Text="Categories" Width="170" VerticalAlignment="Center" />
+            <local:CountBadgeView BadgeText="{Binding TotalCategoryCount}" BadgeBackground="#33597a" BadgeForeground="#F8FAFC" BadgePadding="10,3" />
+          </StackPanel>
+
+          <StackPanel Orientation="Horizontal" Spacing="10">
+            <TextBlock Text="Shops" Width="170" VerticalAlignment="Center" />
+            <local:CountBadgeView BadgeText="{Binding TotalShopCount}" BadgeBackground="#33597a" BadgeForeground="#F8FAFC" BadgePadding="10,3" />
+          </StackPanel>
+
+          <StackPanel Orientation="Horizontal" Spacing="10">
+            <TextBlock Text="Items" Width="170" VerticalAlignment="Center" />
+            <local:CountBadgeView BadgeText="{Binding TotalItemCount}" BadgeBackground="#024630" BadgeForeground="#F8FAFC" BadgePadding="10,3" />
+          </StackPanel>
+
+          <StackPanel Orientation="Horizontal" Spacing="10">
+            <TextBlock Text="Merchants" Width="170" VerticalAlignment="Center" />
+            <local:CountBadgeView BadgeText="{Binding TotalMerchantCount}" BadgeBackground="#33597a" BadgeForeground="#F8FAFC" BadgePadding="10,3" />
+          </StackPanel>
+
+          <StackPanel Orientation="Horizontal" Spacing="10">
+            <TextBlock Text="Unorganized Items" Width="170" VerticalAlignment="Center" />
+            <local:CountBadgeView BadgeText="{Binding TotalUnorganizedItemCount}" BadgeBackground="#6b5a14" BadgeForeground="#FFF7DB" BadgePadding="10,3" />
+          </StackPanel>
+
+          <StackPanel Orientation="Horizontal" Spacing="10">
+            <TextBlock Text="Assigned Shops" Width="170" VerticalAlignment="Center" />
+            <local:CountBadgeView BadgeText="{Binding TotalAssignedShopCount}" BadgeBackground="#024630" BadgeForeground="#F8FAFC" BadgePadding="10,3" />
+          </StackPanel>
+
+          <StackPanel Orientation="Horizontal" Spacing="10">
+            <TextBlock Text="Unassigned Shops" Width="170" VerticalAlignment="Center" />
+            <local:CountBadgeView BadgeText="{Binding TotalUnassignedShopCount}" BadgeBackground="#7c291f" BadgeForeground="#FFE2DD" BadgePadding="10,3" />
+          </StackPanel>
+        </StackPanel>
+      </StackPanel>
+    </Border>
+  </Grid>
+</UserControl>

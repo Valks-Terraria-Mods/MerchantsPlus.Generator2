@@ -1,0 +1,85 @@
+{
+  "Name": "Armor",
+  "Keywords": [],
+  "BlacklistedKeywords": [],
+  "KeywordRules": [],
+  "FirstOrder": [],
+  "LastOrder": [],
+  "Shops": [
+    {
+      "Name": "Leggings",
+      "Priority": 0,
+      "Keywords": [
+        "greaves",
+        "leggings"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "greaves"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "leggings"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Chestplates",
+      "Priority": 0,
+      "Keywords": [
+        "breastplate",
+        "chainmail",
+        "chestplate"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "breastplate"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "chainmail"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "chestplate"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Helmets",
+      "Priority": 0,
+      "Keywords": [
+        "helmet"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "helmet"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "Name": "Tools",
+  "Keywords": [],
+  "BlacklistedKeywords": [],
+  "KeywordRules": [],
+  "FirstOrder": [],
+  "LastOrder": [
+    "solar",
+    "vortex",
+    "nebula",
+    "stardust"
+  ],
+  "Shops": [
+    {
+      "Name": "Drills",
+      "Priority": 0,
+      "Keywords": [
+        "drill"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "drill"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Axes",
+      "Priority": 1,
+      "Keywords": [
+        "axe"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "old"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "axe"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "old"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Hammers",
+      "Priority": 0,
+      "Keywords": [
+        "hammer"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "banner"
+        },
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "old"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "hammer"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "banner",
+        "old"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Hooks",
+      "Priority": 0,
+      "Keywords": [
+        "hook"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "hook"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Wings",
+      "Priority": 0,
+      "Keywords": [
+        "wing"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "glowing"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "wing"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "glowing"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    }
+  ]
+}

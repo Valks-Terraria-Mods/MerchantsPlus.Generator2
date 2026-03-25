@@ -1,0 +1,370 @@
+{
+  "Name": "Merchant",
+  "Shops": [
+    {
+      "Name": "Gear",
+      "Items": [
+        {
+          "Name": "Pickaxes",
+          "IsShopSlot": true,
+          "Shop": {
+            "Name": "Pickaxes",
+            "Items": [
+              {
+                "Name": "IronPickaxe",
+                "Price": "20s"
+              },
+              {
+                "Name": "NightmarePickaxe",
+                "Price": "1g 80s"
+              },
+              {
+                "Name": "MoltenPickaxe",
+                "Price": "2g 70s"
+              },
+              {
+                "Name": "PickaxeStatue",
+                "Price": "3s"
+              },
+              {
+                "Name": "CobaltPickaxe",
+                "Price": "5g 40s"
+              },
+              {
+                "Name": "MythrilPickaxe",
+                "Price": "8g 10s"
+              },
+              {
+                "Name": "AdamantitePickaxe",
+                "Price": "10g 80s"
+              },
+              {
+                "Name": "DeathbringerPickaxe",
+                "Price": "1g 80s"
+              },
+              {
+                "Name": "CactusPickaxe",
+                "Price": "20s"
+              },
+              {
+                "Name": "PickaxeAxe",
+                "Price": "22g"
+              },
+              {
+                "Name": "PalladiumPickaxe",
+                "Price": "7g 20s"
+              },
+              {
+                "Name": "OrichalcumPickaxe",
+                "Price": "9g 90s"
+              },
+              {
+                "Name": "TitaniumPickaxe",
+                "Price": "12g 60s"
+              },
+              {
+                "Name": "ChlorophytePickaxe",
+                "Price": "21g 60s"
+              },
+              {
+                "Name": "BonePickaxe",
+                "Price": "1g 50s"
+              },
+              {
+                "Name": "SpectrePickaxe",
+                "Price": "21g 60s"
+              },
+              {
+                "Name": "CnadyCanePickaxe",
+                "Price": "1g"
+              },
+              {
+                "Name": "PlatinumPickaxe",
+                "Price": "1g 50s"
+              },
+              {
+                "Name": "TungstenPickaxe",
+                "Price": "75s"
+              },
+              {
+                "Name": "LeadPickaxe",
+                "Price": "30s"
+              },
+              {
+                "Name": "TinPickaxe",
+                "Price": "7s 50c"
+              },
+              {
+                "Name": "CopperPickaxe",
+                "Price": "5s"
+              },
+              {
+                "Name": "SilverPickaxe",
+                "Price": "50s"
+              },
+              {
+                "Name": "FossilPickaxe",
+                "Price": "1g 50s"
+              },
+              {
+                "Name": "SolarFlarePickaxe",
+                "Price": "35g"
+              },
+              {
+                "Name": "VortexPickaxe",
+                "Price": "35g"
+              },
+              {
+                "Name": "NebulaPickaxe",
+                "Price": "35g"
+              },
+              {
+                "Name": "StardustPickaxe",
+                "Price": "35g"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Ores",
+      "Items": [
+        {
+          "Name": "IronOre",
+          "Price": "5s"
+        },
+        {
+          "Name": "CopperOre",
+          "Price": "2s 50c"
+        },
+        {
+          "Name": "GoldOre",
+          "Price": "15s"
+        },
+        {
+          "Name": "SilverOre",
+          "Price": "7s 50c"
+        },
+        {
+          "Name": "DemoniteOre",
+          "Price": "50s"
+        },
+        {
+          "Name": "CobaltOre",
+          "Price": "35s"
+        },
+        {
+          "Name": "MythrilOre",
+          "Price": "55s"
+        },
+        {
+          "Name": "AdamantiteOre",
+          "Price": "75s"
+        },
+        {
+          "Name": "TinOre",
+          "Price": "3s 75c"
+        },
+        {
+          "Name": "LeadOre",
+          "Price": "7s 50c"
+        },
+        {
+          "Name": "TungstenOre",
+          "Price": "11s 25c"
+        },
+        {
+          "Name": "PlatinumOre",
+          "Price": "22s 50c"
+        },
+        {
+          "Name": "CrimtaneOre",
+          "Price": "65s"
+        },
+        {
+          "Name": "ChlorophyteOre",
+          "Price": "75s"
+        },
+        {
+          "Name": "PalladiumOre",
+          "Price": "45s"
+        },
+        {
+          "Name": "OrichalcumOre",
+          "Price": "65s"
+        },
+        {
+          "Name": "TitaniumOre",
+          "Price": "85s"
+        },
+        {
+          "Name": "FossilOre",
+          "Price": ""
+        },
+        {
+          "Name": "LunarOre",
+          "Price": "1g 50s"
+        }
+      ]
+    },
+    {
+      "Name": "Bars",
+      "Items": [
+        {
+          "Name": "GoldBar",
+          "Price": "60s"
+        },
+        {
+          "Name": "CopperBar",
+          "Price": "7s 50c"
+        },
+        {
+          "Name": "SilverBar",
+          "Price": "30s"
+        },
+        {
+          "Name": "IronBar",
+          "Price": "15s"
+        },
+        {
+          "Name": "DemoniteBar",
+          "Price": "1g 50s"
+        },
+        {
+          "Name": "MeteoriteBar",
+          "Price": "70s"
+        },
+        {
+          "Name": "HellstoneBar",
+          "Price": "2g"
+        },
+        {
+          "Name": "CobaltBar",
+          "Price": "1g 5s"
+        },
+        {
+          "Name": "MythrilBar",
+          "Price": "2g 20s"
+        },
+        {
+          "Name": "AdamantiteBar",
+          "Price": "3g"
+        },
+        {
+          "Name": "TinBar",
+          "Price": "11s 25c"
+        },
+        {
+          "Name": "LeadBar",
+          "Price": "22s 50c"
+        },
+        {
+          "Name": "TungstenBar",
+          "Price": "45s"
+        },
+        {
+          "Name": "PlatinumBar",
+          "Price": "90s"
+        },
+        {
+          "Name": "ChlorophyteBar",
+          "Price": "4g 50s"
+        },
+        {
+          "Name": "PalladiumBar",
+          "Price": "1g 35s"
+        },
+        {
+          "Name": "OrichalcumBar",
+          "Price": "2g 60s"
+        },
+        {
+          "Name": "TitaniumBar",
+          "Price": "3g 40s"
+        },
+        {
+          "Name": "HallowedBar",
+          "Price": "2g"
+        },
+        {
+          "Name": "CrimtaneBar",
+          "Price": "1g 95s"
+        },
+        {
+          "Name": "ShroomiteBar",
+          "Price": "5g"
+        },
+        {
+          "Name": "Bar",
+          "Price": "3s"
+        },
+        {
+          "Name": "SpectreBar",
+          "Price": "5g"
+        },
+        {
+          "Name": "LunarBar",
+          "Price": "6g"
+        }
+      ]
+    },
+    {
+      "Name": "Arrows",
+      "Items": [
+        {
+          "Name": "WoodenArrow",
+          "Price": "5c"
+        },
+        {
+          "Name": "FlamingArrow",
+          "Price": "10c"
+        },
+        {
+          "Name": "UnholyArrow",
+          "Price": "40c"
+        },
+        {
+          "Name": "JestersArrow",
+          "Price": "1s"
+        },
+        {
+          "Name": "HellfireArrow",
+          "Price": "1s"
+        },
+        {
+          "Name": "HolyArrow",
+          "Price": "80c"
+        },
+        {
+          "Name": "CursedArrow",
+          "Price": "40c"
+        },
+        {
+          "Name": "FrostburnArrow",
+          "Price": "15c"
+        },
+        {
+          "Name": "ChlorophyteArrow",
+          "Price": "1s"
+        },
+        {
+          "Name": "IchorArrow",
+          "Price": "40c"
+        },
+        {
+          "Name": "BoneArrow",
+          "Price": "15c"
+        },
+        {
+          "Name": "MoonlordArrow",
+          "Price": "10c"
+        },
+        {
+          "Name": "ShimmerArrow",
+          "Price": "10c"
+        }
+      ]
+    }
+  ]
+}

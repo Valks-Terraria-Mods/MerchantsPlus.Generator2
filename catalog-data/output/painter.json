@@ -1,0 +1,251 @@
+{
+  "Name": "Painter",
+  "Shops": [
+    {
+      "Name": "Wallpapers",
+      "Items": [
+        {
+          "Name": "ChristmasTreeWallpaper",
+          "Price": "75c"
+        },
+        {
+          "Name": "OrnamentWallpaper",
+          "Price": "75c"
+        },
+        {
+          "Name": "CandyCaneWallpaper",
+          "Price": "75c"
+        },
+        {
+          "Name": "FestiveWallpaper",
+          "Price": "75c"
+        },
+        {
+          "Name": "StarsWallpaper",
+          "Price": "75c"
+        },
+        {
+          "Name": "SquigglesWallpaper",
+          "Price": "75c"
+        },
+        {
+          "Name": "SnowflakeWallpaper",
+          "Price": "75c"
+        },
+        {
+          "Name": "KrampusHornWallpaper",
+          "Price": "75c"
+        },
+        {
+          "Name": "BluegreenWallpaper",
+          "Price": "75c"
+        },
+        {
+          "Name": "GrinchFingerWallpaper",
+          "Price": "75c"
+        },
+        {
+          "Name": "FancyGreyWallpaper",
+          "Price": "75c"
+        },
+        {
+          "Name": "IceFloeWallpaper",
+          "Price": "75c"
+        },
+        {
+          "Name": "MusicWallpaper",
+          "Price": "75c"
+        },
+        {
+          "Name": "PurpleRainWallpaper",
+          "Price": "75c"
+        },
+        {
+          "Name": "RainbowWallpaper",
+          "Price": "75c"
+        },
+        {
+          "Name": "SparkleStoneWallpaper",
+          "Price": "75c"
+        },
+        {
+          "Name": "StarlitHeavenWallpaper",
+          "Price": "75c"
+        },
+        {
+          "Name": "BubbleWallpaper",
+          "Price": "75c"
+        },
+        {
+          "Name": "CopperPipeWallpaper",
+          "Price": "75c"
+        },
+        {
+          "Name": "DuckyWallpaper",
+          "Price": "75c"
+        }
+      ]
+    },
+    {
+      "Name": "Paints",
+      "Items": [
+        {
+          "Name": "Paintbrush",
+          "Price": "1g"
+        },
+        {
+          "Name": "PaintRoller",
+          "Price": "1g"
+        },
+        {
+          "Name": "RedPaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "OrangePaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "YellowPaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "LimePaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "GreenPaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "TealPaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "CyanPaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "SkyBluePaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "BluePaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "PurplePaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "VioletPaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "PinkPaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "DeepRedPaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "DeepOrangePaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "DeepYellowPaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "DeepLimePaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "DeepGreenPaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "DeepTealPaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "DeepCyanPaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "DeepSkyBluePaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "DeepBluePaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "DeepPurplePaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "DeepVioletPaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "DeepPinkPaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "BlackPaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "WhitePaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "GrayPaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "PaintScraper",
+          "Price": "1g"
+        },
+        {
+          "Name": "SpectrePaintbrush",
+          "Price": "30g"
+        },
+        {
+          "Name": "SpectrePaintRoller",
+          "Price": "30g"
+        },
+        {
+          "Name": "SpectrePaintScraper",
+          "Price": "30g"
+        },
+        {
+          "Name": "BrownPaint",
+          "Price": "25c"
+        },
+        {
+          "Name": "ShadowPaint",
+          "Price": "50c"
+        },
+        {
+          "Name": "NegativePaint",
+          "Price": "75c"
+        },
+        {
+          "Name": "PaintSprayer",
+          "Price": "10g"
+        },
+        {
+          "Name": "PainterPaintballGun",
+          "Price": "2g 50s"
+        },
+        {
+          "Name": "GlowPaint",
+          "Price": "2s"
+        }
+      ]
+    }
+  ]
+}

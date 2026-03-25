@@ -1,0 +1,473 @@
+{
+  "Name": "WitchDoctor",
+  "Shops": [
+    {
+      "Name": "Potions 1",
+      "Items": [
+        {
+          "Name": "LesserHealingPotion",
+          "Price": "3s"
+        },
+        {
+          "Name": "LesserManaPotion",
+          "Price": "1s"
+        },
+        {
+          "Name": "HealingPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "ManaPotion",
+          "Price": "2s 50c"
+        },
+        {
+          "Name": "LesserRestorationPotion",
+          "Price": "15s"
+        },
+        {
+          "Name": "RestorationPotion",
+          "Price": "15s"
+        },
+        {
+          "Name": "ObsidianSkinPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "RegenerationPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "SwiftnessPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "GillsPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "IronskinPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "ManaRegenerationPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "MagicPowerPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "FeatherfallPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "SpelunkerPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "InvisibilityPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "ShinePotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "NightOwlPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "BattlePotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "ThornsPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "WaterWalkingPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "ArcheryPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "HunterPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "GravitationPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "PotionStatue",
+          "Price": "3s"
+        },
+        {
+          "Name": "GreaterHealingPotion",
+          "Price": "50s"
+        },
+        {
+          "Name": "GreaterManaPotion",
+          "Price": "5s"
+        },
+        {
+          "Name": "RedPotion",
+          "Price": ""
+        },
+        {
+          "Name": "SuperManaPotion",
+          "Price": "15s"
+        },
+        {
+          "Name": "MiningPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "HeartreachPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "CalmingPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "BuilderPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "TitanPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "FlipperPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "SummoningPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "TrapsightPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "AmmoReservationPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "LifeforcePotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "EndurancePotion",
+          "Price": "10s"
+        }
+      ]
+    },
+    {
+      "Name": "Potions 2",
+      "Items": [
+        {
+          "Name": "RagePotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "InfernoPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "WrathPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "RecallPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "TeleportationPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "LovePotion",
+          "Price": "2s"
+        },
+        {
+          "Name": "StinkPotion",
+          "Price": "2s"
+        },
+        {
+          "Name": "FishingPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "SonarPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "CratePotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "WarmthPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "GenderChangePotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "WormholePotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "SuperHealingPotion",
+          "Price": "1g 50s"
+        },
+        {
+          "Name": "LuckPotionLesser",
+          "Price": "5g"
+        },
+        {
+          "Name": "LuckPotion",
+          "Price": "25g"
+        },
+        {
+          "Name": "LuckPotionGreater",
+          "Price": "1p 25g"
+        },
+        {
+          "Name": "PotionOfReturn",
+          "Price": "10s"
+        },
+        {
+          "Name": "BiomeSightPotion",
+          "Price": "10s"
+        },
+        {
+          "Name": "PlaceableHealingPotion",
+          "Price": "3s"
+        },
+        {
+          "Name": "PlaceableManaPotion",
+          "Price": "1s"
+        }
+      ]
+    },
+    {
+      "Name": "Wings 1",
+      "Items": [
+        {
+          "Name": "ThrowingKnife",
+          "Price": "50c"
+        },
+        {
+          "Name": "DemonWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "AngelWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "RedsWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "ButterflyWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "FairyWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "HarpyWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "BoneWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "FlameWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "FrozenWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "GhostWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "SteampunkWings",
+          "Price": "3p"
+        },
+        {
+          "Name": "LeafWings",
+          "Price": "1p 50g"
+        },
+        {
+          "Name": "BatWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "BeeWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "BrokenBatWing",
+          "Price": "12g 50s"
+        },
+        {
+          "Name": "TatteredBeeWing",
+          "Price": "12g 50s"
+        },
+        {
+          "Name": "FlowingMagma",
+          "Price": "50s"
+        },
+        {
+          "Name": "DTownsWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "WillsWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "CrownosWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "CenxsWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "TatteredFairyWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "SpookyWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "FestiveWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "BeetleWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "FinWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "FishronWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "MothronWings",
+          "Price": "62g 50s"
+        },
+        {
+          "Name": "HellwingBow",
+          "Price": "12g 50s"
+        },
+        {
+          "Name": "BejeweledValkyrieWing",
+          "Price": "40g"
+        },
+        {
+          "Name": "Yoraiz0rWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "JimsWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "SkiphsWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "LokisWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "AleThrowingGlove",
+          "Price": "5s"
+        },
+        {
+          "Name": "BetsyWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "ArkhalisWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "LeinforsWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "GhostarsWings",
+          "Price": "40g"
+        }
+      ]
+    },
+    {
+      "Name": "Wings 2",
+      "Items": [
+        {
+          "Name": "SafemanWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "FoodBarbarianWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "GroxTheGreatWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "RainbowWings",
+          "Price": "40g"
+        },
+        {
+          "Name": "LongRainbowTrailWings",
+          "Price": "50g"
+        },
+        {
+          "Name": "CreativeWings",
+          "Price": "20s"
+        },
+        {
+          "Name": "WingsofEvil",
+          "Price": "50s"
+        },
+        {
+          "Name": "WingsSolar",
+          "Price": "40g"
+        },
+        {
+          "Name": "WingsVortex",
+          "Price": "40g"
+        },
+        {
+          "Name": "WingsNebula",
+          "Price": "40g"
+        },
+        {
+          "Name": "WingsStardust",
+          "Price": "40g"
+        }
+      ]
+    }
+  ]
+}

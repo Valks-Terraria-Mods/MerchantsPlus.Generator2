@@ -1,0 +1,174 @@
+{
+  "Name": "Goods",
+  "Keywords": [],
+  "BlacklistedKeywords": [],
+  "KeywordRules": [],
+  "FirstOrder": [],
+  "LastOrder": [
+    "solar",
+    "vortex",
+    "nebula",
+    "stardust"
+  ],
+  "Shops": [
+    {
+      "Name": "Dyes",
+      "Priority": 0,
+      "Keywords": [
+        "dye"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "dye"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Potions",
+      "Priority": 0,
+      "Keywords": [
+        "potion"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "potion"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Gear",
+      "Priority": 0,
+      "Keywords": [],
+      "KeywordRules": [],
+      "FirstOrder": [
+        "pickaxes"
+      ],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Pickaxes",
+      "Priority": 0,
+      "Keywords": [
+        "pickaxe"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Blacklist",
+          "Match": "Contains",
+          "Term": "old"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "pickaxe"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [
+        "old"
+      ],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": "Gear"
+    },
+    {
+      "Name": "Blocks",
+      "Priority": 0,
+      "Keywords": [
+        "block",
+        "brick"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "block"
+        },
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "brick"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Boss Bags",
+      "Priority": 0,
+      "Keywords": [
+        "bossbag"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "bossbag"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Minecarts",
+      "Priority": 0,
+      "Keywords": [
+        "minecart"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "minecart"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    },
+    {
+      "Name": "Golf",
+      "Priority": 0,
+      "Keywords": [
+        "golf"
+      ],
+      "KeywordRules": [
+        {
+          "Mode": "Whitelist",
+          "Match": "Contains",
+          "Term": "golf"
+        }
+      ],
+      "FirstOrder": [],
+      "LastOrder": [],
+      "ExcludedItems": [],
+      "SharedOrderSourceShopName": "",
+      "ParentShopName": ""
+    }
+  ]
+}

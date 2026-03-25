@@ -1,0 +1,66 @@
+{
+  "Name": "Cyborg",
+  "Shops": [
+    {
+      "Name": "Phasesabers",
+      "Items": [
+        {
+          "Name": "BluePhaseblade",
+          "Price": "2g 70s"
+        },
+        {
+          "Name": "RedPhaseblade",
+          "Price": "2g 70s"
+        },
+        {
+          "Name": "GreenPhaseblade",
+          "Price": "2g 70s"
+        },
+        {
+          "Name": "PurplePhaseblade",
+          "Price": "2g 70s"
+        },
+        {
+          "Name": "WhitePhaseblade",
+          "Price": "2g 70s"
+        },
+        {
+          "Name": "YellowPhaseblade",
+          "Price": "2g 70s"
+        },
+        {
+          "Name": "BluePhasesaber",
+          "Price": "5g"
+        },
+        {
+          "Name": "RedPhasesaber",
+          "Price": "5g"
+        },
+        {
+          "Name": "GreenPhasesaber",
+          "Price": "5g"
+        },
+        {
+          "Name": "PurplePhasesaber",
+          "Price": "5g"
+        },
+        {
+          "Name": "WhitePhasesaber",
+          "Price": "5g"
+        },
+        {
+          "Name": "YellowPhasesaber",
+          "Price": "5g"
+        },
+        {
+          "Name": "OrangePhaseblade",
+          "Price": "2g 70s"
+        },
+        {
+          "Name": "OrangePhasesaber",
+          "Price": "5g"
+        }
+      ]
+    }
+  ]
+}

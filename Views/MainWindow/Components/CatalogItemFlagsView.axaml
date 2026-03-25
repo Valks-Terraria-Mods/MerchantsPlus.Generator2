@@ -1,0 +1,25 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="using:MerchantsPlus.Generator"
+             x:Class="MerchantsPlus.Generator.CatalogItemFlagsView">
+  <StackPanel Orientation="Horizontal" Spacing="6">
+    <local:CountBadgeView IsVisible="{Binding HasSortFlag}"
+                          BadgeText="{Binding SortFlag}"
+                          BadgeBackground="#314A62"
+                          BadgeForeground="#D9E8F6"
+                          BadgeCornerRadius="4"
+                          BadgePadding="6,1" />
+    <local:CountBadgeView IsVisible="{Binding HasConditions}"
+                          BadgeText="{Binding ConditionFlagText}"
+                          BadgeBackground="#4B3F2E"
+                          BadgeForeground="#F2E0BA"
+                          BadgeCornerRadius="4"
+                          BadgePadding="6,1" />
+    <local:CountBadgeView IsVisible="{Binding IsShopSlot}"
+                          BadgeText="Shop"
+                          BadgeBackground="#2A5D43"
+                          BadgeForeground="#E2F5EA"
+                          BadgeCornerRadius="4"
+                          BadgePadding="6,1" />
+  </StackPanel>
+</UserControl>

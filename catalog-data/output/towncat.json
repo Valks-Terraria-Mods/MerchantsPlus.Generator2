@@ -1,0 +1,1273 @@
+{
+  "Name": "TownCat",
+  "Shops": [
+    {
+      "Name": "Banners 1",
+      "Items": [
+        {
+          "Name": "RedBanner",
+          "Price": "5s"
+        },
+        {
+          "Name": "GreenBanner",
+          "Price": "5s"
+        },
+        {
+          "Name": "BlueBanner",
+          "Price": "5s"
+        },
+        {
+          "Name": "YellowBanner",
+          "Price": "5s"
+        },
+        {
+          "Name": "AnkhBanner",
+          "Price": "50s"
+        },
+        {
+          "Name": "SnakeBanner",
+          "Price": "50s"
+        },
+        {
+          "Name": "OmegaBanner",
+          "Price": "50s"
+        },
+        {
+          "Name": "WorldBanner",
+          "Price": "50s"
+        },
+        {
+          "Name": "SunBanner",
+          "Price": "50s"
+        },
+        {
+          "Name": "GravityBanner",
+          "Price": "50s"
+        },
+        {
+          "Name": "MarchingBonesBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "HellboundBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "HellHammerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "HelltowerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "LostHopesofManBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ObsidianWatcherBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "LavaEruptsBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "AnglerFishBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "AngryNimbusBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "AnomuraFungusBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "AntlionBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ArapaimaBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ArmoredSkeletonBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BatBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BirdBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BlackRecluseBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BloodFeederBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BloodJellyBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BloodCrawlerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BoneSerpentBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BunnyBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ChaosElementalBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "MimicBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ClownBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "CorruptBunnyBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "CorruptGoldfishBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "CrabBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "CrimeraBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "CrimsonAxeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "CursedHammerBanner",
+          "Price": "10s"
+        }
+      ]
+    },
+    {
+      "Name": "Banners 2",
+      "Items": [
+        {
+          "Name": "DemonBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DemonEyeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DerplingBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "EaterofSoulsBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "EnchantedSwordBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ZombieEskimoBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "FaceMonsterBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "FloatyGrossBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "FlyingFishBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "FlyingSnakeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "FrankensteinBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "FungiBulbBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "FungoFishBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GastropodBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GoblinThiefBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GoblinSorcererBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GoblinPeonBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GoblinScoutBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GoblinWarriorBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GoldfishBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "HarpyBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "HellbatBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "HerplingBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "HornetBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "IceElementalBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "IcyMermanBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "FireImpBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "JellyfishBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "JungleCreeperBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "LihzahrdBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ManEaterBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "MeteorHeadBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "MothBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "MummyBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "MushiLadybugBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ParrotBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "PigronBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "PiranhaBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "PirateBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "PixieBanner",
+          "Price": "10s"
+        }
+      ]
+    },
+    {
+      "Name": "Banners 3",
+      "Items": [
+        {
+          "Name": "RaincoatZombieBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ReaperBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SharkBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SkeletonBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SkeletonMageBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SlimeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SnowFlinxBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SpiderBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SporeZombieBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SwampThingBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "TortoiseBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ToxicSludgeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "UmbrellaSlimeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "UnicornBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "VampireBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "VultureBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "NypmhBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "WerewolfBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "WolfBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "WorldFeederBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "WormBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "WraithBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "WyvernBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ZombieBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "AngryTrapperBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ArmoredVikingBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BlackSlimeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BlueArmoredBonesBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BlueCultistArcherBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BlueCultistCasterBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BlueCultistFighterBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BoneLeeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ClingerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "CochinealBeetleBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "CorruptPenguinBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "CorruptSlimeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "CorruptorBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "CrimslimeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "CursedSkullBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "CyanBeetleBanner",
+          "Price": "10s"
+        }
+      ]
+    },
+    {
+      "Name": "Banners 4",
+      "Items": [
+        {
+          "Name": "DevourerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DiablolistBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DoctorBonesBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DungeonSlimeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DungeonSpiritBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ElfArcherBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ElfCopterBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "EyezorBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "FlockoBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GhostBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GiantBatBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GiantCursedSkullBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GiantFlyingFoxBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GingerbreadManBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GoblinArcherBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GreenSlimeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "HeadlessHorsemanBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "HellArmoredBonesBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "HellhoundBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "HoppinJackBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "IceBatBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "IceGolemBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "IceSlimeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "IchorStickerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "IlluminantBatBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "IlluminantSlimeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "JungleBatBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "JungleSlimeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "KrampusBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "LacBeetleBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "LavaBatBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "LavaSlimeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "MartianBrainscramblerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "MartianDroneBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "MartianEngineerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "MartianGigazapperBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "MartianGreyGruntBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "MartianOfficerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "MartianRaygunnerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "MartianScutlixGunnerBanner",
+          "Price": "10s"
+        }
+      ]
+    },
+    {
+      "Name": "Banners 5",
+      "Items": [
+        {
+          "Name": "MartianTeslaTurretBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "MisterStabbyBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "MotherSlimeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "NecromancerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "NutcrackerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "PaladinBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "PenguinBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "PinkyBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "PoltergeistBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "PossessedArmorBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "PresentMimicBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "PurpleSlimeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "RaggedCasterBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "RainbowSlimeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "RavenBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "RedSlimeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "RuneWizardBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "RustyArmoredBonesBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ScarecrowBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ScutlixBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SkeletonArcherBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SkeletonCommandoBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SkeletonSniperBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SlimerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SnatcherBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SnowBallaBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SnowmanGangstaBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SpikedIceSlimeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SpikedJungleSlimeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SplinterlingBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SquidBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "TacticalSkeletonBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "TheGroomBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "TimBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "UndeadMinerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "UndeadVikingBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "WhiteCultistArcherBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "WhiteCultistCasterBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "WhiteCultistFighterBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "YellowSlimeBanner",
+          "Price": "10s"
+        }
+      ]
+    },
+    {
+      "Name": "Banners 6",
+      "Items": [
+        {
+          "Name": "YetiBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ZombieElfBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GoblinSummonerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SalamanderBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GiantShellyBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "CrawdadBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "FritzBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "CreatureFromTheDeepBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DrManFlyBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "MothronBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SeveredHandBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ThePossessedBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ButcherBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "PsychoBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DeadlySphereBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "NailheadBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "PoisonousSporeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "MedusaBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GreekSkeletonBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GraniteFlyerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GraniteGolemBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BloodZombieBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DripplerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "TombCrawlerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DuneSplicerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "FlyingAntlionBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "WalkingAntlionBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DesertGhoulBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DesertLamiaBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DesertDjinnBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DesertBasiliskBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "RavagerScorpionBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "PirateCaptainBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "PirateDeadeyeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "PirateCorsairBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "PirateCrossbowerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "MartianWalkerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "RedDevilBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "PinkJellyfishBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GreenJellyfishBanner",
+          "Price": "10s"
+        }
+      ]
+    },
+    {
+      "Name": "Banners 7",
+      "Items": [
+        {
+          "Name": "DarkMummyBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "LightMummyBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "AngryBonesBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "IceTortoiseBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SandSlimeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SeaSnailBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SandElementalBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SandsharkBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SandsharkCorruptBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SandsharkCrimsonBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SandsharkHallowedBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "TumbleweedBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "WarTableBanner",
+          "Price": "10g"
+        },
+        {
+          "Name": "DD2GoblinBomberBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DD2GoblinBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DD2SkeletonBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DD2DrakinBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DD2KoboldFlyerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DD2KoboldBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DD2WitherBeastBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DD2WyvernBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DD2JavelinThrowerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DD2LightningBugBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "TheBrideBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ZombieMermanBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "EyeballFlyingFishBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BloodSquidBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BloodEelBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GoblinSharkBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BloodNautilusBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "DandelionBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "GnomeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "RockGolemBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BloodMummyBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SporeSkeletonBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SporeBatBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "LarvaeAntlionBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "CrimsonBunnyBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "CrimsonGoldfishBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "CrimsonPenguinBanner",
+          "Price": "10s"
+        }
+      ]
+    },
+    {
+      "Name": "Banners 8",
+      "Items": [
+        {
+          "Name": "BigMimicCorruptionBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BigMimicCrimsonBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "BigMimicHallowBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "MossHornetBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "WanderingEyeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "ShimmerSlimeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SolarCoriteBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SolarSrollerBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SolarCrawltipedeBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SolarDrakomireRiderBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SolarDrakomireBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "SolarSolenianBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "VortexLarvaBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "VortexHornetQueenBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "VortexHornetBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "VortexSoldierBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "VortexRiflemanBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "NebulaSoldierBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "NebulaHeadcrabBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "NebulaBrainBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "NebulaBeastBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "StardustSoldierBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "StardustWormBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "StardustJellyfishBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "StardustSpiderBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "StardustSmallCellBanner",
+          "Price": "10s"
+        },
+        {
+          "Name": "StardustLargeCellBanner",
+          "Price": "10s"
+        }
+      ]
+    }
+  ]
+}

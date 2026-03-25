@@ -1,0 +1,653 @@
+{
+  "Name": "DyeTrader",
+  "Shops": [
+    {
+      "Name": "Dyes 1",
+      "Items": [
+        {
+          "Name": "RedDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "OrangeDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "YellowDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "LimeDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "GreenDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "TealDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "CyanDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "SkyBlueDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BlueDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "PurpleDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "VioletDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "PinkDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "RedandBlackDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "OrangeandBlackDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "YellowandBlackDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "LimeandBlackDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "GreenandBlackDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "TealandBlackDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "CyanandBlackDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "SkyBlueandBlackDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BlueandBlackDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "PurpleandBlackDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "VioletandBlackDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "PinkandBlackDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "FlameDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "FlameAndBlackDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "GreenFlameDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "GreenFlameAndBlackDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BlueFlameDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BlueFlameAndBlackDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "SilverDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BrightRedDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BrightOrangeDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BrightYellowDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BrightLimeDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BrightGreenDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BrightTealDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BrightCyanDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BrightSkyBlueDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BrightBlueDye",
+          "Price": "1g"
+        }
+      ]
+    },
+    {
+      "Name": "Dyes 2",
+      "Items": [
+        {
+          "Name": "BrightPurpleDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BrightVioletDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BrightPinkDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BlackDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "RedandSilverDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "OrangeandSilverDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "YellowandSilverDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "LimeandSilverDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "GreenandSilverDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "TealandSilverDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "CyanandSilverDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "SkyBlueandSilverDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BlueandSilverDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "PurpleandSilverDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "VioletandSilverDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "PinkandSilverDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "IntenseFlameDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "IntenseGreenFlameDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "IntenseBlueFlameDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "RainbowDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "IntenseRainbowDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "YellowGradientDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "CyanGradientDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "VioletGradientDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "DyeVat",
+          "Price": "5g"
+        },
+        {
+          "Name": "DyeTraderRobe",
+          "Price": "3g"
+        },
+        {
+          "Name": "RedAndYellowBulb",
+          "Price": "5s"
+        },
+        {
+          "Name": "WhiteAndYellowBulb",
+          "Price": "5s"
+        },
+        {
+          "Name": "RedAndYellowLights",
+          "Price": "5s"
+        },
+        {
+          "Name": "BlueAndYellowLights",
+          "Price": "5s"
+        },
+        {
+          "Name": "TeamDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "LifeHairDye",
+          "Price": "5g"
+        },
+        {
+          "Name": "ManaHairDye",
+          "Price": "5g"
+        },
+        {
+          "Name": "DepthHairDye",
+          "Price": "5g"
+        },
+        {
+          "Name": "MoneyHairDye",
+          "Price": "10g"
+        },
+        {
+          "Name": "TimeHairDye",
+          "Price": "5g"
+        },
+        {
+          "Name": "TeamHairDye",
+          "Price": "5g"
+        },
+        {
+          "Name": "BiomeHairDye",
+          "Price": "5g"
+        },
+        {
+          "Name": "PartyHairDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "RainbowHairDye",
+          "Price": "15g"
+        }
+      ]
+    },
+    {
+      "Name": "Dyes 3",
+      "Items": [
+        {
+          "Name": "SpeedHairDye",
+          "Price": "5g"
+        },
+        {
+          "Name": "HairDyeRemover",
+          "Price": "2g"
+        },
+        {
+          "Name": "MartianHairDye",
+          "Price": "30g"
+        },
+        {
+          "Name": "MartianArmorDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "LivingFlameDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "LivingRainbowDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "ShadowDye",
+          "Price": "3g 75s"
+        },
+        {
+          "Name": "NegativeDye",
+          "Price": "3g 75s"
+        },
+        {
+          "Name": "LivingOceanDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "BrownDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BrownAndBlackDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BrightBrownDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BrownAndSilverDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "WispDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "PixieDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "ChlorophyteDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "UnicornWispDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "InfernalWispDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "DevDye",
+          "Price": "15g"
+        },
+        {
+          "Name": "PurpleOozeDye",
+          "Price": "3g 75s"
+        },
+        {
+          "Name": "ReflectiveSilverDye",
+          "Price": "3g 75s"
+        },
+        {
+          "Name": "ReflectiveGoldDye",
+          "Price": "3g 75s"
+        },
+        {
+          "Name": "BlueAcidDye",
+          "Price": "3g 75s"
+        },
+        {
+          "Name": "HadesDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "TwilightDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "AcidDye",
+          "Price": "3g 75s"
+        },
+        {
+          "Name": "MushroomDye",
+          "Price": "3g 75s"
+        },
+        {
+          "Name": "PhaseDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "ReflectiveDye",
+          "Price": "3g 75s"
+        },
+        {
+          "Name": "DyeTraderTurban",
+          "Price": "3g"
+        },
+        {
+          "Name": "TwilightHairDye",
+          "Price": "30g"
+        },
+        {
+          "Name": "DyeTradersScimitar",
+          "Price": "2g 50s"
+        },
+        {
+          "Name": "VoidDye",
+          "Price": "12g 50s"
+        },
+        {
+          "Name": "ShiftingSandsDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "MirageDye",
+          "Price": "3g 75s"
+        },
+        {
+          "Name": "ShiftingPearlSandsDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "FlameAndSilverDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "GreenFlameAndSilverDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BlueFlameAndSilverDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "ReflectiveCopperDye",
+          "Price": "3g 75s"
+        }
+      ]
+    },
+    {
+      "Name": "Dyes 4",
+      "Items": [
+        {
+          "Name": "ReflectiveObsidianDye",
+          "Price": "3g 75s"
+        },
+        {
+          "Name": "ReflectiveMetalDye",
+          "Price": "3g 75s"
+        },
+        {
+          "Name": "MidnightRainbowDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "BlackAndWhiteDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "BrightSilverDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "SilverAndBlackDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "RedAcidDye",
+          "Price": "1g"
+        },
+        {
+          "Name": "GelDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "PinkGelDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "BurningHadesDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "GrimDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "LokisDye",
+          "Price": "15g"
+        },
+        {
+          "Name": "ShadowflameHadesDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "ColorOnlyDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "GolfBallDyedBlack",
+          "Price": "1g"
+        },
+        {
+          "Name": "GolfBallDyedBlue",
+          "Price": "1g"
+        },
+        {
+          "Name": "GolfBallDyedBrown",
+          "Price": "1g"
+        },
+        {
+          "Name": "GolfBallDyedCyan",
+          "Price": "1g"
+        },
+        {
+          "Name": "GolfBallDyedGreen",
+          "Price": "1g"
+        },
+        {
+          "Name": "GolfBallDyedLimeGreen",
+          "Price": "1g"
+        },
+        {
+          "Name": "GolfBallDyedOrange",
+          "Price": "1g"
+        },
+        {
+          "Name": "GolfBallDyedPink",
+          "Price": "1g"
+        },
+        {
+          "Name": "GolfBallDyedPurple",
+          "Price": "1g"
+        },
+        {
+          "Name": "GolfBallDyedRed",
+          "Price": "1g"
+        },
+        {
+          "Name": "GolfBallDyedSkyBlue",
+          "Price": "1g"
+        },
+        {
+          "Name": "GolfBallDyedTeal",
+          "Price": "1g"
+        },
+        {
+          "Name": "GolfBallDyedViolet",
+          "Price": "1g"
+        },
+        {
+          "Name": "GolfBallDyedYellow",
+          "Price": "1g"
+        },
+        {
+          "Name": "KiteBlueAndYellow",
+          "Price": "2g"
+        },
+        {
+          "Name": "KiteRedAndYellow",
+          "Price": "2g"
+        },
+        {
+          "Name": "FogboundDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "BloodbathDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "HallowBossDye",
+          "Price": "7g 50s"
+        },
+        {
+          "Name": "SolarDye",
+          "Price": "12g 50s"
+        },
+        {
+          "Name": "VortexDye",
+          "Price": "12g 50s"
+        },
+        {
+          "Name": "NebulaDye",
+          "Price": "12g 50s"
+        },
+        {
+          "Name": "StardustDye",
+          "Price": "12g 50s"
+        }
+      ]
+    }
+  ]
+}
